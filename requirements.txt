@@ -1,0 +1,132 @@
+appdirs==1.4.4
+argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
+astroid==2.4.2
+async-generator==1.10
+attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+autopep8 @ file:///tmp/build/80754af9/autopep8_1596578164842/work
+backcall==0.2.0
+basilica==0.2.8
+beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1601924105527/work
+bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+blinker==1.4
+blis @ file:///C:/ci/cython-blis_1594248803162/work
+brotlipy==0.7.0
+catalogue==1.0.0
+certifi==2020.6.20
+cffi @ file:///C:/ci/cffi_1600699246375/work
+chardet==3.0.4
+click==7.1.2
+colorama==0.4.3
+cryptography @ file:///C:/ci/cryptography_1601046905460/work
+cycler==0.10.0
+cymem==2.0.3
+decorator==4.4.2
+defusedxml==0.6.0
+distlib==0.3.1
+dnspython==1.16.0
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.3.1/en_core_web_md-2.3.1.tar.gz
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
+entrypoints==0.3
+filelock==3.0.12
+Flask==1.1.2
+Flask-SQLAlchemy @ file:///tmp/build/80754af9/flask-sqlalchemy_1596836624296/work
+future==0.18.2
+gunicorn==20.0.4
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1593446511143/work
+ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1598865816163/work
+ipython-genutils==0.2.0
+ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1601490159889/work
+isort==5.5.2
+itsdangerous==1.1.0
+jedi @ file:///C:/ci/jedi_1598353661586/work
+Jinja2==2.11.2
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+jsonschema @ file:///C:/ci/jsonschema_1594295134295/work
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
+jupyter-core==4.6.3
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+kiwisolver==1.2.0
+lazy-object-proxy==1.4.3
+lxml @ file:///C:/ci/lxml_1594822774489/work
+MarkupSafe==1.1.1
+matplotlib @ file:///C:/ci/matplotlib-base_1597876438601/work
+mccabe==0.6.1
+mistune==0.8.4
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+murmurhash==1.0.2
+nbclient @ file:///tmp/build/80754af9/nbclient_1601059699549/work
+nbconvert @ file:///C:/ci/nbconvert_1601051200066/work
+nbformat==5.0.7
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1601499549014/work
+notebook @ file:///C:/ci/notebook_1601501643625/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1596215850360/work
+oauthlib==3.1.0
+olefile==0.46
+packaging==20.4
+pandas @ file:///C:/ci/pandas_1601558512044/work
+pandocfilters==1.4.2
+parso==0.7.0
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1594298230227/work
+pipenv==2020.8.13
+plac @ file:///C:/ci/plac_1594257555766/work
+preshed==3.0.2
+prometheus-client==0.8.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1598885458782/work
+psycopg2 @ file:///C:/ci/psycopg2_1594305172475/work
+pycodestyle==2.6.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+PyJWT==1.7.1
+pylint==2.6.0
+pymongo==3.11.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.7
+pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
+PySocks==1.7.1
+python-dateutil==2.8.1
+python-dotenv==0.14.0
+pytz==2020.1
+pywin32==227
+pywinpty==0.5.7
+pyzmq==19.0.2
+qtconsole @ file:///tmp/build/80754af9/qtconsole_1600870028330/work
+QtPy==1.9.0
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1595492159598/work
+scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
+scipy @ file:///C:/ci/scipy_1592916963468/work
+Send2Trash==1.5.0
+sip==4.19.13
+six==1.15.0
+soupsieve==2.0.1
+spacy @ file:///C:/ci/spacy_1600557334559/work
+SQLAlchemy @ file:///C:/ci/sqlalchemy_1598374833867/work
+srsly==1.0.2
+terminado==0.8.3
+testpath==0.4.4
+thinc @ file:///C:/ci/thinc_1594248375709/work
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+toml==0.10.1
+tornado==6.0.4
+tqdm @ file:///tmp/build/80754af9/tqdm_1600709023549/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1600712679583/work
+tweepy @ file:///home/conda/feedstock_root/build_artifacts/tweepy_1594498408379/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1597086586889/work
+virtualenv==20.0.33
+virtualenv-clone==0.5.4
+wasabi @ file:///tmp/build/80754af9/wasabi_1599244993840/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension==3.5.1
+win-inet-pton==1.1.0
+wincertstore==0.2
+wrapt==1.12.1
+zipp==3.1.0
