@@ -1,0 +1,1263 @@
+﻿shop_id,shop,lat,lng,address,city,state,zip,type
+1,Happy Leaf Collective,34.0442797,-118.4323648,2131,Los Angeles,CA,90025,Medical Marijuana Dispensary
+2,Mecca Natural Medicine,34.0354029,-118.3670099,5650,Los Angeles,CA,90016,Medical Marijuana Dispensary
+3,LOUD,34.0438973,-118.3086318,1570,Los Angeles,CA,90006,Medical Marijuana Dispensary
+4,HOLLYWEED,34.0445981,-118.352096,5142,Los Angeles,CA,90019,Medical Marijuana Dispensary
+5,THC-OPEN to 3AM,33.9963099,-118.4280272,4127,Los Angeles,CA,90066,Medical Marijuana Dispensary
+6,Venice Beach Care Center,34.0008123,-118.4660974,410,Venice,CA,90291,Medical Marijuana Dispensary
+7,ThirdEye Wellness,33.9925454,-118.4231952,4509,Los Angeles,CA,90066,Medical Marijuana Dispensary
+8,420 Manchester,33.9615802,-118.3498413,420,Inglewood,CA,90301,Medical Marijuana Dispensary
+9,NATURES CURE INC (PRE-ICO),33.9450117,-118.3724138,5300,Los Angeles,CA,90045,Medical Marijuana Dispensary
+10,GWC 35 CAP,33.9412469,-118.3433849,10418,Inglewood,CA,90303,Medical Marijuana Dispensary
+11,Main Spot,33.9364035,-118.2736522,10950,LOS ANGELES,CA,90061,Medical Marijuana Dispensary
+12,WhittierHotBox,33.9174453,-118.0489905,13261,Whittier,CA,90605,Medical Marijuana Dispensary
+13,ELAC,34.0173479,-118.1439611,5910,Los Angeles,CA,90022,Medical Marijuana Dispensary
+14,Mr. 5 Grams 8th!,34.035696,-118.250401,732,Los Angeles,CA,90021,Medical Marijuana Dispensary
+15,Green Stop 35 Cap,34.0344982,-118.2164644,2314,Los Angeles,CA,90023,Medical Marijuana Dispensary
+16,MR NICE GUY,34.0376503,-118.2575445,1126,LOS ANGELES,CA,90015,Medical Marijuana Dispensary
+17,CHR,34.0734353,-118.1637715,5470,Los Angeles,CA,90032,Medical Marijuana Dispensary
+18,Organic Green Treatment Center,34.0216046,-118.3290906,3655,Los Angeles,CA,90018,Medical Marijuana Dispensary
+19,LAXCC PRE-ICO,33.9619254,-118.4207356,8332,Los Angeles,CA,90045,Medical Marijuana Dispensary
+20,ShowGrow Santa Ana,33.7201192,-117.8467455,1625,Santa Ana,CA,92705,Medical Marijuana Dispensary
+21,Off The Pier,33.7049713,-117.9897008,17731,Huntington Beach,CA,92647,Medical Marijuana Dispensary
+22,Tender Greens Patient Group of San Pedro,33.7376845,-118.2913613,655,San Pedro,CA,90731,Medical Marijuana Dispensary
+23,Diamond Hills Reserve,33.8872596,-117.5056812,12689,Riverside,CA,92503,Medical Marijuana Dispensary
+24,Root 19,33.8790804,-118.1426419,17043,Bellflower,CA,90706,Medical Marijuana Dispensary
+25,BEACH Center - South Bay,33.8586372,-118.2953382,1115,Gardena,CA,90248,Medical Marijuana Dispensary
+26,Mr. Greens,33.790262,-118.2742569,910,Wilmington,CA,90744,Medical Marijuana Dispensary
+27,Nu Remedy Health Care,34.1493613,-118.1200892,1470,Pasadena,CA,91106,Medical Marijuana Dispensary
+28,Acme Silver Place,34.0190321,-117.9589345,261,Hacienda Heights,CA,91745,Medical Marijuana Dispensary
+29,LA MART,33.98485,-118.278649,6001,Los Angeles,CA,90003,Medical Marijuana Dispensary
+30,MMD,34.098507,-118.329754,1515,Hollywood,CA,90028,Medical Marijuana Dispensary
+31,GLD - Torrance,33.8199472,-118.3081005,1658,Torrance,CA,90501,Medical Marijuana Dispensary
+32,Movals Members Only,33.9395693,-117.2428003,24050,Moreno Valley,CA,92553,Medical Marijuana Dispensary
+33,A NEW SPIRIT - Perris,33.7804888,-117.2450357,620,Perris,CA,92570,Medical Marijuana Dispensary
+34,So-Cal Co-op,34.185286,-118.6229465,6322,Woodland Hills,CA,91367,Medical Marijuana Dispensary
+35,West Valley Caregivers,34.1640889,-118.6289824,23067,Woodland Hills,CA,91364,Medical Marijuana Dispensary
+36,West Valley Patients Group,34.1644899,-118.6282757,23043,Woodland Hills,CA,91364,Medical Marijuana Dispensary
+37,MNR Co-Op,34.1659145,-118.624429,22831,Woodland Hills,CA,91364,Medical Marijuana Dispensary
+38,Green Angel Pre-Ico,34.1660442,-118.6219913,22748,Woodland Hills,CA,91364,Medical Marijuana Dispensary
+39,THE LOFT,34.1664058,-118.5929619,5338,Woodland Hills,CA,91364,Medical Marijuana Dispensary
+40,THeClinik Caregivers,34.1931734,-118.5874602,20844,Canoga Park,CA,91306,Medical Marijuana Dispensary
+41,COAST TO COAST COLLECTIVE,34.199973,-118.5981,7127,Canoga Park,CA,91303,Medical Marijuana Dispensary
+42,Canogas Finest,34.2023346,-118.5927125,7230,Canoga Park,CA,91303,Medical Marijuana Dispensary
+43,iSHOP,34.2087676,-118.5959016,21305,Canoga Park,CA,91304,Medical Marijuana Dispensary
+44,SFVPC,34.2199945,-118.5900842,20947,Canoga Park,CA,91304,Medical Marijuana Dispensary
+45,LA Patient Dispensary AKA 2am Dispensary,34.2194006,-118.5979825,8239,Canoga Park,CA,91304,Medical Marijuana Dispensary
+46,DC Collective,34.216828,-118.59548,8053,Canoga Park,CA,91304,Medical Marijuana Dispensary
+47,OBC,34.2083264,-118.5702291,20040,Winnetka,CA,91306,Medical Marijuana Dispensary
+48,TMC,34.2080285,-118.5530868,7550,Reseda,CA,91335,Medical Marijuana Dispensary
+49,SCSA South Coast Safe Access,33.7129422,-117.8411434,1900,Santa Ana,CA,92705,Medical Marijuana Dispensary
+50,From The Earth,33.7064569,-117.8646912,3023,Santa Ana,CA,92707,Medical Marijuana Dispensary
+51,Peoples OC,33.7105386,-117.8505248,2721,Santa Ana,CA,92705,Medical Marijuana Dispensary
+52,Hand N Hand Patient Care,33.7150472,-117.8444299,2400,Santa Ana,CA,92705,Medical Marijuana Dispensary
+53,Bud & Bloom,33.719851,-117.852724,1327,Santa Ana,CA,92705,Medical Marijuana Dispensary
+54,The WEED - Wellness Earth Energy Dispensary,34.1403471,-118.3837512,11557,Los Angeles,CA,91604,Medical Marijuana Dispensary
+55,Apothecary,34.1530991,-118.4687597,15374,Los Angeles,CA,91403,Medical Marijuana Dispensary
+56,WHTC - Pre ICO,34.1363812,-118.362165,3760,Los Angeles,CA,91604,Medical Marijuana Dispensary
+57,CannaSutra Pre-ICO,34.1413307,-118.372015,11101,Los Angeles,CA,91604,Medical Marijuana Dispensary
+58,The Higher Path Collective PRE-ICO,34.1492147,-118.4398425,14080,Los Angeles,CA,91423,Medical Marijuana Dispensary
+59,SCC dba Universal Collective,34.1343516,-118.3602862,3625,Los Angeles,CA,90068,Medical Marijuana Dispensary
+60,Perennial Holistic Wellness Center,34.1418329,-118.3879959,11705,Los Angeles,CA,91604,Medical Marijuana Dispensary
+61,Presidential Collective,33.97073,-117.367181,2804,Riverside,CA,92507,Medical Marijuana Dispensary
+62,WONDERLAND 30 CAP COLLECTIVE,34.1063841,-117.3703189,0,Rialto,CA,92376,Medical Marijuana Dispensary
+63,EC Mega Meds,32.7947122,-116.9734712,905,El Cajon,CA,92020,Medical Marijuana Dispensary
+64,MTR - South LA,33.9908434,-118.2562337,5710,Los Angeles,CA,90011,Medical Marijuana Dispensary
+65,CCC Pre-ICO,34.2009945,-118.4258885,13432,Los Angeles,CA,91605,Medical Marijuana Dispensary
+66,BONAFIDE COLLECTIVE - Pre ICO,34.2094049,-118.35357,7570,Los Angeles,CA,91352,Medical Marijuana Dispensary
+67,Greener Side Wellness,32.7611572,-117.0325746,7640,La Mesa,CA,91942,Medical Marijuana Dispensary
+68,Tri City Emerald,33.1864557,-117.2837539,1945,Vista,CA,92083,Medical Marijuana Dispensary
+69,OSH,34.3150079,-118.4404127,14064,Los Angeles,CA,91342,Medical Marijuana Dispensary
+70,Kush Kingdom,32.7458313,-116.9901822,9612,Spring Valley,CA,91977,Medical Marijuana Dispensary
+71,Chubbys Med House,34.0879649,-117.684982,5505,Montclair,CA,91763,Medical Marijuana Dispensary
+72,The Tree Club ($45 CAP),32.6076568,-117.0670732,1277,Chula Vista,CA,91911,Medical Marijuana Dispensary
+73,WhittierHotBox,33.9174453,-118.0489905,13261,Whittier,CA,90605,Medical Marijuana Dispensary
+74,Melrose Herbal Collective 35 CAP - South LA,33.9860423,-118.2596455,859,Los Angeles,CA,90001,Medical Marijuana Dispensary
+75,NACCC,33.7897204,-118.3084349,1719,Lomita,CA,90717,Medical Marijuana Dispensary
+76,Tender Greens Patient Group of San Pedro,33.7376845,-118.2913613,655,Los Angeles,CA,90731,Medical Marijuana Dispensary
+77,THCSD,32.7777437,-117.1150783,3703,San Diego,CA,92108,Medical Marijuana Dispensary
+78,Happy Leaf Collective,34.0442797,-118.4323648,2131,Los Angeles,CA,90025,Medical Marijuana Dispensary
+79,THC - The Healing Center,34.8489664,-114.6108771,1400,Needles,CA,92363,Medical Marijuana Dispensary
+80,UNITED MEDICAL ALLIANCE - Northridge / Reseda / Chatsworth,34.1973579,-118.5353165,18446,Los Angeles,CA,91335,Medical Marijuana Dispensary
+81,Gale Green House,34.0118266,-117.9667073,15608,La Puente,CA,91745,Medical Marijuana Dispensary
+82,Dank of America,32.8960324,-117.1325881,8977,San Diego,CA,92121,Medical Marijuana Dispensary
+83,Southwest Patient Group (Licensed MMCC),32.5464208,-117.0333314,658,San Diego,CA,92173,Medical Marijuana Dispensary
+84,Sugar Shack,33.1631008,-117.2052009,2530,Vista,CA,92084,Medical Marijuana Dispensary
+85,Jah Healing Caregivers 1 - Big Bear,34.260123,-116.863202,1020,Big Bear,CA,92314,Medical Marijuana Dispensary
+86,SunGrow Collective & CBD Center - Palm Springs,33.9246645,-116.5017313,17003,Desert Hot Springs,CA,92240,Medical Marijuana Dispensary
+87,Blue Stone Group - Lake Elsinore,33.62469,-117.32241,18925,Lake Elsinore,CA,92530,Medical Marijuana Dispensary
+88,MedMen SV,34.228425,-118.373787,8724,Los Angeles,CA,91352,Medical Marijuana Dispensary
+89,The High Church - Temecula,33.4332455,-117.1398848,47991,Temecula,CA,92592,Medical Marijuana Dispensary
+90,CCI Medical Group - Coachella,33.6721379,-116.181185,51800,Coachella,CA,92236,Medical Marijuana Dispensary
+91,THE LAB,33.93215,-118.279095,11227,Los Angeles,CA,90061,Medical Marijuana Dispensary
+92,ShowGrow Ramona,33.043337,-116.905479,736,Ramona,CA,92065,Medical Marijuana Dispensary
+93,Mr. Naturals 35 Cap,,,0,LA,,,Medical Marijuana Dispensary
+94,Dank of America,34.0155309,-118.2012532,1511,Los Angeles,CA,90023,Medical Marijuana Dispensary
+95,Organic Green Treatment Center - Prop D Compliant,34.0216046,-118.3290906,3655,Los Angeles,CA,90018,Medical Marijuana Dispensary
+96,MedMen WeHo,34.0779182,-118.3945015,8208,Beverly Hills,CA,90210,Medical Marijuana Dispensary
+97,ECC Ease Compassion Collective,33.8600562,-117.8868642,2435,Fullerton,CA,92831,Medical Marijuana Dispensary
+98,5 Gram Eighths,34.1184549,-117.3132985,1041,San Bernardino,CA,92411,Medical Marijuana Dispensary
+99,LAXCC PRE-ICO,33.9619254,-118.4207356,8332,Los Angeles,CA,90045,Medical Marijuana Dispensary
+100,Charlottes Web Cafe,33.791155,-118.2482891,1215,Los Angeles,CA,90744,Medical Marijuana Dispensary
+101,Harbor Collective,32.6923527,-117.13917,2405,San Diego,CA,92113,Medical Marijuana Dispensary
+102,Movals Members Only,33.9395693,-117.2428003,24050,Moreno Valley,CA,92553,Medical Marijuana Dispensary
+103,Lights Out Wellness,34.861673,-118.163675,1739,Rosamond,CA,93560,Medical Marijuana Dispensary
+104,LOVE IN IT COOPERATIVE,39.306069,-123.798795,10464,Mendocino,CA,95460,Medical Marijuana Dispensary
+105,The New VMC - OPEN NOW,34.0300408,-118.3897138,8940,Los Angeles,CA,90034,Medical Marijuana Dispensary
+106,Orange Tree Top,,,0,Orange,,,Medical Marijuana Dispensary
+107,MCC X,33.71221,-117.08525,32990,Winchester,CA,92596,Medical Marijuana Dispensary
+108,The WEED - Wellness Earth Energy Dispensary,34.1403471,-118.3837512,11557,Los Angeles,CA,91604,Medical Marijuana Dispensary
+109,GREENWOLF LA Pre ICO,,,0,Los Angeles,,,Medical Marijuana Dispensary
+110,Royal Empire Collective,33.977064,-117.522107,6102,Jurupa Valley,CA,91752,Medical Marijuana Dispensary
+111,Harvest Collective,33.7455883,-116.7141364,54200,Idyllwild-Pine Cove,CA,92549,Medical Marijuana Dispensary
+112,Reefside Health Center,36.9892226,-121.9803872,3110,Santa Cruz,CA,95065,Medical Marijuana Dispensary
+113,The Laughing Leaf,33.2129955,-117.2290683,1020,Vista,CA,92084,Medical Marijuana Dispensary
+114,G Mile - Hemet,33.743002,-117.108198,31651,Homeland,CA,92548,Medical Marijuana Dispensary
+115,White Castle,33.8030764,-117.9481318,10618,Anaheim,CA,92804,Medical Marijuana Dispensary
+116,99 High Tide - Malibu,34.0394488,-118.6719611,22775,Malibu,CA,90265,Medical Marijuana Dispensary
+117,Telegraph Health Center,37.8193975,-122.2674718,3003,Oakland,CA,94609,Medical Marijuana Dispensary
+118,Vallejo Holistic Health Center (VHHC),38.1096869,-122.2533931,539,Vallejo,CA,94590,Medical Marijuana Dispensary
+119,MR NICE GUY,34.0376503,-118.2575445,1126,Los Angeles,CA,90015,Medical Marijuana Dispensary
+120,The Clinic,37.9624001,-121.2710887,678,Stockton,CA,95205,Medical Marijuana Dispensary
+121,92 Pullman,37.2900049,-121.8496466,92,San Jose,CA,95111,Medical Marijuana Dispensary
+122,Heaven - Fresno,,,0,Fresno,,,Medical Marijuana Dispensary
+123,The Holistic Center - Modesto,37.638608,-120.906109,4819,Modesto,CA,95357,Medical Marijuana Dispensary
+124,1 Stop GG,33.7574191,-117.9547305,14136,Garden Grove,CA,92843,Medical Marijuana Dispensary
+125,Highlands Health and Wellness,38.6608263,-120.9406703,4020,Shingle Springs,CA,95682,Medical Marijuana Dispensary
+126,Mercy Wellness of Cotati,38.3323442,-122.7140066,7950,Cotati,CA,94931,Medical Marijuana Dispensary
+127,Purple Star MD,37.7566342,-122.4190327,2520,San Francisco,CA,94110,Medical Marijuana Dispensary
+128,Empyrean Care,35.3542678,-119.0335045,2730,Bakersfield,CA,93304,Medical Marijuana Dispensary
+129,GLD - Torrance,33.8199472,-118.3081005,1658,Torrance,CA,90501,Medical Marijuana Dispensary
+130,Limitless Care Collective,32.8003954,-117.2381076,1737,San Diego,CA,92109,Medical Marijuana Dispensary
+131,Green Star Medical,,,0,Fontana,,,Medical Marijuana Dispensary
+132,Herban Legend,39.4036597,-123.8085709,17875,Fort Bragg,CA,95437,Medical Marijuana Dispensary
+133,"The Kind Center, Inc.",34.2130467,-118.5007831,7832,Los Angeles,CA,91406,Medical Marijuana Dispensary
+134,Huntington Beachs Green Wave,33.7054774,-117.9897624,17685,Huntington Beach,CA,92647,Medical Marijuana Dispensary
+135,Apothekare,32.835038,-117.1520344,5125,San Diego,CA,92111,Medical Marijuana Dispensary
+136,House of Champions,33.9528889,-118.3617761,401,Inglewood,CA,90301,Medical Marijuana Dispensary
+137,Mankind Cooperative,,,0,San Diego,,,Medical Marijuana Dispensary
+138,Green Remedy,37.978216,-122.331622,2928,Richmond,CA,94806,Medical Marijuana Dispensary
+139,Mallgreens - Clovis,,,0,Fresno,,,Medical Marijuana Dispensary
+140,Upland Cannabis Club,34.1064709,-117.6904928,2006,Upland,CA,91786,Medical Marijuana Dispensary
+141,Bellflower Garden,33.875068,-118.1279023,9631,Bellflower,CA,90706,Medical Marijuana Dispensary
+142,Cookies SF,37.7153736,-122.4421476,5234,San Francisco,CA,94112,Medical Marijuana Dispensary
+143,Monterey Bay Alternative Medicine,36.5988252,-121.8502699,800,Del Rey Oaks,CA,93940,Medical Marijuana Dispensary
+144,Organic Greens Collective,34.4340242,-119.8286783,298,Goleta,CA,93117,Medical Marijuana Dispensary
+145,Collective Efforts,38.5252226,-121.4762971,2831,Sacramento,CA,95820,Medical Marijuana Dispensary
+146,SCCC,38.6560356,-121.4698138,135,Sacramento,CA,95838,Medical Marijuana Dispensary
+147,11th St. Well-Health,37.739246,-121.400408,7650,Tracy,CA,95304,Medical Marijuana Dispensary
+148,PCH,33.724223,-118.076022,16400,Huntington Beach,CA,90742,Medical Marijuana Dispensary
+149,Tahoe Wellness Cooperative,38.9462121,-119.9655819,3445,South Lake Tahoe,CA,96150,Medical Marijuana Dispensary
+150,Leave it to Nature,40.6797332,-122.3520711,5340,Shasta Lake,CA,96019,Medical Marijuana Dispensary
+151,Green Mammoth,37.6454943,-118.9682919,94,Mammoth Lakes,CA,93546,Medical Marijuana Dispensary
+152,The Goodfellas,37.3396978,-120.592565,3600,Atwater,CA,95301,Medical Marijuana Dispensary
+153,Kure Wellness,39.1965313,-123.1924809,800,Ukiah,CA,95482,Medical Marijuana Dispensary
+154,CALI RELEAF,33.7891263,-118.3130451,1930,Lomita,CA,90717,Medical Marijuana Dispensary
+155,MAC MIRAGE ALTERNATIVE CARE,34.1257787,-117.2783685,1435,San Bernardino,CA,92404,Medical Marijuana Dispensary
+156,Green Lady 24 Hours,,,0,Chula Vista,,,Medical Marijuana Dispensary
+157,Bomb Buds - Upland,34.095299,-117.6480235,134,Upland,CA,91786,Medical Marijuana Dispensary
+158,The Lakeside Collective,33.660728,-117.3802847,15573,Lake Elsinore,CA,92530,Medical Marijuana Dispensary
+159,Empire SD,32.7369121,-117.013865,8622,Spring Valley,CA,91977,Medical Marijuana Dispensary
+160,Gardenas Med Center,33.8818814,-118.2904777,841,Gardena,CA,90247,Medical Marijuana Dispensary
+161,Green Mile Collective,34.8589431,-118.1640245,2613,Rosamond,CA,93560,Medical Marijuana Dispensary
+162,The Heights Collective,33.9876035,-117.8828154,19261,Rowland Heights,CA,91748,Medical Marijuana Dispensary
+163,CMC - Costa Mesa Church of ONAC,33.6470936,-117.9197567,2001,Costa Mesa,CA,92627,Medical Marijuana Dispensary
+164,HIGHWAY 99 COLLECTIVE,35.4447049,-119.0874325,19456,Bakersfield,CA,93308,Medical Marijuana Dispensary
+165,Clean Green 40 CAP 5G FTP,,,0,Torrance,,,Medical Marijuana Dispensary
+166,Fire Station - Corona,33.8370109,-117.522807,19470,Corona,CA,92881,Medical Marijuana Dispensary
+167,Broadway Greens,32.8074428,-116.9338724,1351,El Cajon,CA,92021,Medical Marijuana Dispensary
+168,Diamond Collective,32.779768,-117.0183324,5555,La Mesa,CA,91942,Medical Marijuana Dispensary
+169,FAMOUS ROOTS,34.2901165,-118.412149,12708,Los Angeles,CA,91342,Medical Marijuana Dispensary
+170,Green Solutions,34.07029,-117.3958797,0,Bloomington,CA,,Medical Marijuana Dispensary
+171,Golden Valley Collective,33.913767,-117.4629187,3911,Riverside,CA,92503,Medical Marijuana Dispensary
+172,The Red Door 30 CAP,33.782509,-118.233228,2304,Los Angeles,CA,90744,Medical Marijuana Dispensary
+173,Holistic Pain Relief - Prop D Compliant,33.985456,-118.3118286,5993,Los Angeles,CA,90047,Medical Marijuana Dispensary
+174,Green Gold Cultivators,38.188751,-120.675326,568,San Andreas,CA,95249,Medical Marijuana Dispensary
+175,TREE HOUSE COLLECTIVE,33.1825738,-117.2175966,1526,Vista,CA,92084,Medical Marijuana Dispensary
+176,H Street Patient Care,34.839478,-114.608139,221,Needles,CA,92363,Medical Marijuana Dispensary
+177,ELAC,34.0173479,-118.1439611,5910,East Los Angeles,CA,90022,Medical Marijuana Dispensary
+178,The Gas Station LA 30CAP,33.951768,-118.277832,9300,Los Angeles,CA,90003,Medical Marijuana Dispensary
+179,Euclid Medical Center (EMC),33.7745094,-117.9622546,9757,Garden Grove,CA,92844,Medical Marijuana Dispensary
+180,Urban Pharm,37.7748242,-122.4157371,132,San Francisco,CA,94103,Medical Marijuana Dispensary
+181,HGC - Holistic Gardens Collective,33.7391405,-117.0745376,33671,Hemet,CA,92545,Medical Marijuana Dispensary
+182,Palm Springs Safe Access (PSSA),33.8060746,-116.4934253,1247,Palm Springs,CA,92264,Medical Marijuana Dispensary
+183,The Green Rose,34.083677,-118.2998125,4569,Los Angeles,CA,90029,Medical Marijuana Dispensary
+184,LA FLIGHT CLUB,34.002341,-118.277761,4524,Los Angeles,CA,90037,Medical Marijuana Dispensary
+185,First Hemp Bank,37.7998996,-122.2150035,3480,Oakland,CA,94602,Medical Marijuana Dispensary
+186,Sun Valley Caregivers 35 CAP SVC,34.2374698,-118.3703608,11000,Los Angeles,CA,91352,Medical Marijuana Dispensary
+187,Main Spot (PRE-ICO),33.9364035,-118.2736522,10950,Los Angeles,CA,90061,Medical Marijuana Dispensary
+188,Point Loma Patient Consumer Co-Op - Ocean Beach,32.7562668,-117.2082649,3452,San Diego,CA,92110,Medical Marijuana Dispensary
+189,Zen Noho pre-ICO,34.1638419,-118.3700182,5142,Los Angeles,CA,91601,Medical Marijuana Dispensary
+190,Whittier Daily Greens,33.9900541,-118.0647446,10710,Whittier,CA,90606,Medical Marijuana Dispensary
+191,GMC,34.0839026,-118.3547386,7559,Los Angeles,CA,90046,Medical Marijuana Dispensary
+192,MedLogic Inc. - Perris,33.7821372,-117.2439526,802,Perris,CA,92570,Medical Marijuana Dispensary
+193,NATUREs CURE INC (PRE-ICO),33.9450117,-118.3724138,5300,Los Angeles,CA,90045,Medical Marijuana Dispensary
+194,New Amsterdam Naturals PRE-ICO (NNCC),34.0289001,-118.3926116,9021,Los Angeles,CA,90034,Medical Marijuana Dispensary
+195,Higher Level of Care,36.7662882,-121.7585964,10665,Castroville,CA,95012,Medical Marijuana Dispensary
+196,Torrey Holistics,32.898175,-117.2219147,10671,San Diego,CA,92121,Medical Marijuana Dispensary
+197,ALL THE WAY UP,33.9160764,-117.2742118,14111,Moreno Valley,CA,92553,Medical Marijuana Dispensary
+198,HB Secret Stash,33.6798826,-117.9885594,19480,Huntington Beach,CA,92648,Medical Marijuana Dispensary
+199,The Blvd,33.8961478,-118.2289261,401,Compton,CA,90220,Medical Marijuana Dispensary
+200,Airfield Supply Company,37.3568083,-121.9318392,1190,San Jose,CA,95110,Medical Marijuana Dispensary
+201,The 7G Heaven,34.0340286,-118.2609856,1431,Los Angeles,CA,90015,Medical Marijuana Dispensary
+202,TMC,34.2080285,-118.5530868,7550,Los Angeles,CA,91335,Medical Marijuana Dispensary
+203,Green Earth Farmacie,34.2117859,-118.462512,7756,Los Angeles,CA,91405,Medical Marijuana Dispensary
+204,Alpine Alternative - Sacramento,38.535427,-121.4075181,8112,Sacramento,CA,95826,Medical Marijuana Dispensary
+205,The Green Kitty,34.004173,-117.4881182,9346,Riverside,CA,92509,Medical Marijuana Dispensary
+206,Trichome City,,,0,Escondido,,,Medical Marijuana Dispensary
+207,Temecula Holistic Health,33.4882369,-117.1443506,28822,Temecula,CA,92590,Medical Marijuana Dispensary
+208,KindPeoples,36.9856884,-121.9826074,3600,Santa Cruz,CA,95062,Medical Marijuana Dispensary
+209,Santa Barbara Care Center,34.435054,-119.827076,5814,Goleta,CA,93117,Medical Marijuana Dispensary
+210,The Peoples Remedy,37.654568,-121.023809,1350,Modesto,CA,95351,Medical Marijuana Dispensary
+211,Northstar Holistic Collective,38.586715,-121.4864287,1236,Sacramento,CA,95814,Medical Marijuana Dispensary
+212,Malibu Community Collective,34.0399099,-118.6655572,22523,Malibu,CA,90265,Medical Marijuana Dispensary
+213,DANNK CITY,34.197528,-118.1592289,3021,Altadena,CA,91001,Medical Marijuana Dispensary
+214,Fullerton Flowers,33.8649105,-117.9421407,601,Fullerton,CA,92832,Medical Marijuana Dispensary
+215,Anaheim Healing Center,33.8336681,-117.9589649,126,Anaheim,CA,92801,Medical Marijuana Dispensary
+216,TRD - DOWNTOWN LONG BEACH,33.8113701,-118.2234229,0,Long Beach,CA,90810,Medical Marijuana Dispensary
+217,Revolution Emporium,39.1906217,-123.2074776,3081,Ukiah,CA,95482,Medical Marijuana Dispensary
+218,1944 Ocean Cooperative - San Francisco,37.7259398,-122.4635402,1944,San Francisco,CA,94127,Medical Marijuana Dispensary
+219,7 Stars Holistic Healing Center,,,0,Richmond,,,Medical Marijuana Dispensary
+220,Baked Brothers,34.1101738,-118.1910462,5858,Los Angeles,CA,90042,Medical Marijuana Dispensary
+221,Pacific HighLife,,,0,Pacific Beach,,,Medical Marijuana Dispensary
+222,Farm Fresh Medical Marijuana Dispensary,34.4985486,-114.3472859,790,Lake Havasu City,AZ,86403,Medical Marijuana Dispensary
+223,CANOGAs BEST DEALS - PRE-ICO,34.1999788,-118.6005763,7125,Los Angeles,CA,91303,Medical Marijuana Dispensary
+224,Garden of Eden,37.6853373,-122.0928486,21227,Hayward,CA,94541,Medical Marijuana Dispensary
+225,TRD - LONG BEACH,33.8640647,-118.1766294,0,Long Beach,CA,90805,Medical Marijuana Dispensary
+226,420 XCHANGE,33.7744354,-117.9778776,8851,Garden Grove,CA,92844,Medical Marijuana Dispensary
+227,Green Nature Collective La Mesa,32.755318,-117.0434474,7180,La Mesa,CA,91942,Medical Marijuana Dispensary
+228,Top Shop - Upland,34.095299,-117.6480235,134,Upland,CA,91786,Medical Marijuana Dispensary
+229,HAPPY LIFE,33.787723,-118.307317,25916,Los Angeles,CA,90710,Medical Marijuana Dispensary
+230,Pharmers Reserve Collective,32.7912698,-116.9627574,416,El Cajon,CA,92020,Medical Marijuana Dispensary
+231,APC,33.8037207,-117.9402741,1671,Anaheim,CA,92802,Medical Marijuana Dispensary
+232,Divine Vitality,35.3539201,-119.0033881,102,Bakersfield,CA,93304,Medical Marijuana Dispensary
+233,Jaydens Journey,37.7123115,-121.0014901,5054,Modesto,CA,95356,Medical Marijuana Dispensary
+234,West Coast Collective,32.710915,-116.997053,741,Spring Valley,CA,91977,Medical Marijuana Dispensary
+235,Chula Vista Clinic,32.6124111,-117.0683634,1144,Chula Vista,CA,91911,Medical Marijuana Dispensary
+236,30 Cap Collective,33.918399,-117.485469,11004,Riverside,CA,92505,Medical Marijuana Dispensary
+237,SYLMAR WELLNESS CENTER,34.3016001,-118.4628824,12777,Los Angeles,CA,91342,Medical Marijuana Dispensary
+238,HGC 35CAP - Gardena,33.8823963,-118.291087,16400,Gardena,CA,90247,Medical Marijuana Dispensary
+239,Western TLC Collective,,,0,Los Angeles,,,Medical Marijuana Dispensary
+240,MCIII - Cure Compassion - Pre ICO,34.21111,-118.356072,7674,Los Angeles,CA,91352,Medical Marijuana Dispensary
+241,ShowGrow Presented by AHPS,34.0272259,-118.253205,824,Los Angeles,CA,90021,Medical Marijuana Dispensary
+242,Circle City Collective - Corona / Norco,33.8770988,-117.5234555,13627,Corona,CA,92879,Medical Marijuana Dispensary
+243,NHC: NATURAL HEALTH,34.1472344,-118.0695254,3843,Pasadena,CA,91107,Medical Marijuana Dispensary
+244,"Marina Caregivers, Inc.",33.9908708,-118.4458458,13453,Marina del Rey,CA,90292,Medical Marijuana Dispensary
+245,SURF CITY 30 CAP COLLECTIVE,33.7215505,-118.0421,16561,Huntington Beach,CA,92649,Medical Marijuana Dispensary
+246,MedMart 30 CAP,33.98528,-118.2785988,5977,Los Angeles,CA,90003,Medical Marijuana Dispensary
+247,HNH Holistic Natural Healing - Wilmington,33.779555,-118.261523,735,Los Angeles,CA,90744,Medical Marijuana Dispensary
+248,Stellar Cellar - Perris,33.785748,-117.221176,41,Perris,CA,92570,Medical Marijuana Dispensary
+249,Medical Caregivers Co-Op,34.0598827,-118.2157855,1039,Los Angeles,CA,90033,Medical Marijuana Dispensary
+250,VHC Pre-ICO,34.230119,-118.376643,11300,Los Angeles,CA,91352,Medical Marijuana Dispensary
+251,420 Central,33.7130742,-117.8731869,420,Santa Ana,CA,92707,Medical Marijuana Dispensary
+252,HACC - Torrance,33.8318496,-118.3070771,1613,Torrance,CA,90501,Medical Marijuana Dispensary
+253,Green Gopher,33.201592,-117.245821,430,Vista,CA,92083,Medical Marijuana Dispensary
+254,Cannaclub 30,33.9035567,-118.2339059,537,Compton,CA,90222,Medical Marijuana Dispensary
+255,Happy Daze 35,33.9679833,-118.2248662,7800,Huntington Park,CA,90255,Medical Marijuana Dispensary
+256,Canna Wellness Center,33.9303246,-117.2267508,13121,Moreno Valley,CA,92553,Medical Marijuana Dispensary
+257,HHC - Healthy Herbal Care,34.2002053,-118.4665522,7123,Los Angeles,CA,91405,Medical Marijuana Dispensary
+258,First Choice - Lake Elsinore,33.642061,-117.350098,17421,Lake Elsinore,CA,92530,Medical Marijuana Dispensary
+259,SPC,33.9685711,-118.3092383,7815,Los Angeles,CA,90047,Medical Marijuana Dispensary
+260,Mecca Natural Medicine,34.0354029,-118.3670099,5650,Los Angeles,CA,90016,Medical Marijuana Dispensary
+261,Whittier TopShop,33.9250432,-118.0212815,14561,Whittier,CA,90604,Medical Marijuana Dispensary
+262,Dankology 35 cap,34.1275569,-117.2790458,1520,San Bernardino,CA,92404,Medical Marijuana Dispensary
+263,Desert Cann Wellness Center,33.826986,-116.402078,30565,Thousand Palms,CA,92276,Medical Marijuana Dispensary
+264,OPG - Ontana Planet Green,34.8403098,-114.6110033,300,Needles,CA,92363,Medical Marijuana Dispensary
+265,Grasshoppers Healing Group,34.069971,-117.413506,17921,Bloomington,CA,92316,Medical Marijuana Dispensary
+266,THE LEONARD MOORE CO-OP,39.3064099,-123.7981077,44970,Mendocino,CA,95460,Medical Marijuana Dispensary
+267,Foothill Health and Wellness,38.6499269,-120.9510012,3830,Shingle Springs,CA,95682,Medical Marijuana Dispensary
+268,45 CAP,34.0541034,-117.9893301,0,City of Industry,CA,91746,Medical Marijuana Dispensary
+269,Chronic Pain Releaf,33.743091,-117.109645,31559,Homeland,CA,92548,Medical Marijuana Dispensary
+270,Organic Health Solutions,34.865226,-118.154117,1315,Rosamond,CA,93560,Medical Marijuana Dispensary
+271,Green Valley Collective,34.165165,-118.367074,10835,Los Angeles,CA,91601,Medical Marijuana Dispensary
+272,Santa Cruz Naturals,36.975677,-121.888088,9077,Aptos,CA,95003,Medical Marijuana Dispensary
+273,Westpoint Medicinal,34.105957,-117.8544273,20504,Covina,CA,91724,Medical Marijuana Dispensary
+274,Compassionate Patient Resources - CPR,34.2278984,-118.5370991,18526,Los Angeles,CA,91324,Medical Marijuana Dispensary
+275,First Hemp Bank,37.6694756,-122.1580549,2541,San Lorenzo,CA,94580,Medical Marijuana Dispensary
+276,DESERT ORGANIC SOLUTIONS - Palm Springs 92258,33.9066925,-116.5493879,19486,Palm Springs,CA,92262,Medical Marijuana Dispensary
+277,The High Side,34.0126298,-117.4814153,9085,Riverside,CA,92509,Medical Marijuana Dispensary
+278,Mallgreens - Fresno,,,0,Fresno,,,Medical Marijuana Dispensary
+279,Abatin Wellness Center,38.5613719,-121.4739249,2129,Sacramento,CA,95817,Medical Marijuana Dispensary
+280,Green 99 - Westminister / Sunset Beach / Seal Beach,33.7443602,-117.9917884,7852,Midway City,CA,92655,Medical Marijuana Dispensary
+281,Highway 29 Health Care,38.1256091,-122.2558996,3737,Vallejo,CA,94589,Medical Marijuana Dispensary
+282,Bloom Room Collective,37.7819455,-122.4083563,471,San Francisco,CA,94103,Medical Marijuana Dispensary
+283,Alternatives Health Collective - Santa Rosa,38.4282613,-122.738194,1603,Santa Rosa,CA,95407,Medical Marijuana Dispensary
+284,The Guild SJ,37.2886698,-121.849637,2943,San Jose,CA,95111,Medical Marijuana Dispensary
+285,Berkeley Patients Group,37.8632729,-122.2906103,2366,Berkeley,CA,94702,Medical Marijuana Dispensary
+286,South Sacramento Care Center,38.5088812,-121.4763697,114,Sacramento,CA,95822,Medical Marijuana Dispensary
+287,Medithrive Ocean,37.7242707,-122.4589897,1545,San Francisco,CA,94112,Medical Marijuana Dispensary
+288,Were Up Stairs Inc,37.967568,-121.321602,1804,Stockton,CA,95204,Medical Marijuana Dispensary
+289,West Coast Octane,33.8551115,-117.9028456,1301,Fullerton,CA,92831,Medical Marijuana Dispensary
+290,SUPREME COLLECTIVE - Grand Opening,34.1004846,-118.0252341,5233,Temple City,CA,91780,Medical Marijuana Dispensary
+291,GTA GREEN TEMPLE ALTERNATIVE,34.125721,-117.27719,1434,San Bernardino,CA,92404,Medical Marijuana Dispensary
+292,Van Nuys Solutions,34.203224,-118.466642,7301,Los Angeles,CA,91405,Medical Marijuana Dispensary
+293,TOP SHELF 30 CAP COLLECTIVE,33.943287,-117.478757,6024,Riverside,CA,92503,Medical Marijuana Dispensary
+294,GAG TOP SHELF 30CAP,34.0581758,-118.2117267,1806,Los Angeles,CA,90033,Medical Marijuana Dispensary
+295,Manchester Med Center MMC,33.955532,-118.309354,8927,Los Angeles,CA,90047,Medical Marijuana Dispensary
+296,Premium Patient Care,33.7224758,-117.988618,16518,Huntington Beach,CA,92647,Medical Marijuana Dispensary
+297,Cookie Club Collective,32.7366708,-117.0103869,8783,Spring Valley,CA,91977,Medical Marijuana Dispensary
+298,Little Trees,,,0,Arnold,,,Medical Marijuana Dispensary
+299,SHC,34.3099158,-118.427823,13509,Los Angeles,CA,91342,Medical Marijuana Dispensary
+300,The Gas Collective,34.0614845,-117.677691,1413,Ontario,CA,91762,Medical Marijuana Dispensary
+301,Herbal LifeStyle - HLS,33.8147238,-118.297776,23216,Torrance,CA,90502,Medical Marijuana Dispensary
+302,Natural Remedies Consulting,37.7169432,-120.9998379,5272,Modesto,CA,95356,Medical Marijuana Dispensary
+303,MTHC,33.9962887,-117.4048498,5543,Riverside,CA,92509,Medical Marijuana Dispensary
+304,La Mesas Finest (Home of the 5 Gram 8ths),32.7552129,-117.0442192,7140,La Mesa,CA,91942,Medical Marijuana Dispensary
+305,Herbarium LA,34.0885443,-118.3446752,979,West Hollywood,CA,90038,Medical Marijuana Dispensary
+306,CPA - Gardena,33.8814312,-118.2906603,844,Gardena,CA,90247,Medical Marijuana Dispensary
+307,Canto Diem $35 Cap,34.1440005,-118.362484,10612,Los Angeles,CA,91602,Medical Marijuana Dispensary
+308,HHC Plus,34.0198867,-118.2395616,1901,Los Angeles,CA,90058,Medical Marijuana Dispensary
+309,Broadway LA Pharmacy,33.9516787,-118.2779311,9304,Los Angeles,CA,90003,Medical Marijuana Dispensary
+310,Cornerstone Research Collective,34.1421023,-118.2219775,2551,Los Angeles,CA,90041,Medical Marijuana Dispensary
+311,The Secret Stash 5G,34.095299,-117.6480235,134,Upland,CA,91786,Medical Marijuana Dispensary
+312,Green Pearl Organics,33.975267,-116.528712,64949,Desert Hot Springs,CA,92240,Medical Marijuana Dispensary
+313,AAA (Alternative Access Association) - Perris,33.762309,-117.262843,24600,Perris,CA,92570,Medical Marijuana Dispensary
+314,Rose Collective Pre-ICO,33.997937,-118.474862,411,Los Angeles,CA,90291,Medical Marijuana Dispensary
+315,Tree House Preserve,,,0,Hemet,,,Medical Marijuana Dispensary
+316,25 CAP The Green Library,33.9697996,-118.2249418,7632,Huntington Park,CA,90255,Medical Marijuana Dispensary
+317,TNT Green,34.2533013,-118.2963503,7520,Los Angeles,CA,91042,Medical Marijuana Dispensary
+318,Greener Field Meds,32.8133525,-116.9394672,1216,El Cajon,CA,92021,Medical Marijuana Dispensary
+319,Health Stop,34.076831,-118.2869297,313,Los Angeles,CA,90004,Medical Marijuana Dispensary
+320,CannaSutra Pre-ICO,34.1413307,-118.372015,11101,Los Angeles,CA,91604,Medical Marijuana Dispensary
+321,Safe Access GKC,33.8322311,-117.9526791,2006,Anaheim,CA,92801,Medical Marijuana Dispensary
+322,PureLife Alternative Wellness Center,34.24844,-118.586157,20751,Los Angeles,CA,91311,Medical Marijuana Dispensary
+323,$18 Shatter Wholesale,33.205532,-117.237389,986,Vista,CA,92084,Medical Marijuana Dispensary
+324,Antelope Valley Diamond Collective,34.8451808,-118.1605882,1733,Rosamond,CA,93560,Medical Marijuana Dispensary
+325,Hugs Alternative Care,38.5584826,-121.4611952,2035,Sacramento,CA,95817,Medical Marijuana Dispensary
+326,Herbal Cruz Inc.,36.9671749,-121.9652013,1092,Santa Cruz,CA,95062,Medical Marijuana Dispensary
+327,Tru Green Collective,,,0,Fresno,,,Medical Marijuana Dispensary
+328,Emerald Pharms,38.9668686,-123.1147362,13771,Hopland,CA,95449,Medical Marijuana Dispensary
+329,The Gas Station,33.9432212,-117.260547,12220,Moreno Valley,CA,92557,Medical Marijuana Dispensary
+330,California Collective Care,38.1389215,-122.254188,1639,Vallejo,CA,94589,Medical Marijuana Dispensary
+331,2ONE2 California Street Dispensary,37.7936022,-122.3991938,212,San Francisco,CA,94111,Medical Marijuana Dispensary
+332,Caliva,37.3138962,-121.8659328,1695,San Jose,CA,95112,Medical Marijuana Dispensary
+333,THE CHOICE,33.9031478,-118.234161,544,Compton,CA,90222,Medical Marijuana Dispensary
+334,The Bud Farmacy,34.8146236,-114.6030777,101,Needles,CA,92363,Medical Marijuana Dispensary
+335,515 Broadway - Sacramento,38.56562,-121.5065976,515,Sacramento,CA,95818,Medical Marijuana Dispensary
+336,DabLabz - Garden Grove,33.7572569,-117.9548401,14144,Garden Grove,CA,92843,Medical Marijuana Dispensary
+337,Oakland Community Partners,37.8075029,-122.2688174,1776,Oakland,CA,94612,Medical Marijuana Dispensary
+338,SC CBD ONLY-STORE,33.4260009,-117.6106782,401,San Clemente,CA,92672,Medical Marijuana Dispensary
+339,Buddha Company Pre-ICO TFH,34.0303118,-118.2307162,2038,Los Angeles,CA,90021,Medical Marijuana Dispensary
+340,Cannafornia Health Group,34.0173148,-118.1437072,5916,East Los Angeles,CA,90022,Medical Marijuana Dispensary
+341,The Crop,35.4149674,-119.0567615,5950,Bakersfield,CA,93308,Medical Marijuana Dispensary
+342,Green Cross of Torrance,33.831099,-118.308727,1658,Torrance,CA,90501,Medical Marijuana Dispensary
+343,The Clinic Colorado - Medical,39.6797444,-104.9404338,2020,Denver,CO,80222,Medical Marijuana Dispensary
+344,The Clinic Highlands - Medical,39.7619493,-105.0336993,3460,Denver,CO,80211,Medical Marijuana Dispensary
+345,MiNDFUL - Berthoud,40.31144,-105.076472,1015,Berthoud,CO,80513,Medical Marijuana Dispensary
+346,The Clinic on Wadsworth - Medical,39.6494538,-105.0807339,3600,Lakewood,CO,80235,Medical Marijuana Dispensary
+347,Native Roots Dispensary Eagle-Vail - Medical,,,0,Avon,,,Medical Marijuana Dispensary
+348,LaContes Clone Bar + Dispensary Medical,39.7909335,-104.978028,5194,Denver,CO,80216,Medical Marijuana Dispensary
+349,Natural Mystic Wellness Center,38.8419755,-106.131925,204,Buena Vista,CO,81211,Medical Marijuana Dispensary
+350,The 64 Store,38.8329656,-104.8345768,502,Colorado Springs,CO,80905,Medical Marijuana Dispensary
+351,Fox Cannabis - Street Wellness Medical,39.7832493,-104.9947467,4773,Denver,CO,80216,Medical Marijuana Dispensary
+352,LaContes Clone Bar + Dispensary - Central Medical,39.7274414,-104.9855883,105,Denver,CO,80203,Medical Marijuana Dispensary
+353,Native Roots Dispensary Longmont - Medical,40.1617004,-105.1220415,19,Longmont,CO,80501,Medical Marijuana Dispensary
+354,The Secret Stash,38.847991,-104.870091,2845,Colorado Springs,CO,80904,Medical Marijuana Dispensary
+355,Green Tree (Medicinals) of Berthoud,40.3122074,-105.0758103,1090,Berthoud,CO,80513,Medical Marijuana Dispensary
+356,Green Tree (Medicinals) of Boulder,40.0153379,-105.2234614,5565,Boulder,CO,80303,Medical Marijuana Dispensary
+357,Patients Choice Lakewood - Medical,39.7406303,-105.0754131,7063,Lakewood,CO,80214,Medical Marijuana Dispensary
+358,Green Tree (Medicinals) of Longmont,40.2035515,-105.1024668,12626,Longmont,CO,80504,Medical Marijuana Dispensary
+359,Maggies Farm Canon- Medical Only,38.4476034,-105.1963945,3055,CaÃƒÂ±on City,CO,81212,Medical Marijuana Dispensary
+360,MiNDFUL - Colorado Springs,38.8375698,-104.7754968,403,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+361,Headquarters Cannabis Company Longmont - Medical,40.2127392,-105.2492154,4497,Longmont,CO,80503,Medical Marijuana Dispensary
+362,Patients Choice Morrison - Medical,39.7058978,-105.039939,4000,Denver,CO,80219,Medical Marijuana Dispensary
+363,Rocky Farms **Opening Soon!!**,38.0497484,-103.7086796,1709,Rocky Ford,CO,81067,Medical Marijuana Dispensary
+364,Sacred Seed - Medical,39.6791138,-104.9196382,5885,Denver,CO,80222,Medical Marijuana Dispensary
+365,Natural Remedies - Medical,39.7500369,-104.997613,1620,Denver,CO,80202,Medical Marijuana Dispensary
+366,New Amsterdam Organics,39.718989,-105.0036669,150,Denver,CO,80223,Medical Marijuana Dispensary
+367,Lightshade on Peoria - Medical,39.7732121,-104.8491092,11975,Denver,CO,80239,Medical Marijuana Dispensary
+368,TweedLeaf,38.839825,-104.849721,1602,Colorado Springs,CO,80904,Medical Marijuana Dispensary
+369,Silver Stem Fine Cannabis - Lakewood Medical,39.638137,-105.0357058,3700,Denver,CO,80236,Medical Marijuana Dispensary
+370,Sweet leaf - South Federal- Medical ONLY,39.708079,-105.024555,468,Denver,CO,80219,Medical Marijuana Dispensary
+371,Southern Colorado Medical Marijuana LLC.(SOCO),38.8833616,-104.8114571,3410,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+372,Lightshade - Sheridan Medical,39.696056,-105.0527649,1126,Denver,CO,80232,Medical Marijuana Dispensary
+373,Silver Stem Fine Cannabis - Littleton Medical,39.6130172,-105.0002871,1086,Littleton,CO,80120,Medical Marijuana Dispensary
+374,Boulder Botanics,40.0173096,-105.2526539,1780,Boulder,CO,80301,Medical Marijuana Dispensary
+375,Pain Management Solutions,38.819366,-104.815931,1022,Colorado Springs,CO,80903,Medical Marijuana Dispensary
+376,Pueblo West Organics (Medical),38.329202,-104.7176051,609,Pueblo West,CO,81007,Medical Marijuana Dispensary
+377,Grant Pharms MMC,38.8379207,-104.7876791,320,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+378,Green Leaf,39.6749177,-104.9026463,2280,Denver,CO,80231,Medical Marijuana Dispensary
+379,Standing Akimbo,39.7694377,-104.9996076,3801,Denver,CO,80211,Medical Marijuana Dispensary
+380,SEVEN-ONE-NINE LLC,38.2154598,-104.6432456,2729,Pueblo,CO,81004,Medical Marijuana Dispensary
+381,Dr. Releaf Inc.,38.8399603,-104.7783429,2639,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+382,Green Cross of Cherry Creek,39.6538858,-104.9083997,3400,Denver,CO,80224,Medical Marijuana Dispensary
+383,Green Tree (Medicinals) of Northglenn,39.8881516,-104.9940365,10575,Northglenn,CO,80234,Medical Marijuana Dispensary
+384,WTJ MMJ Supply,38.851956,-104.7571218,1347,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+385,Fine Trees Medical,39.794077,-104.861901,5353,Denver,CO,80239,Medical Marijuana Dispensary
+386,MiNDFUL - Colfax Medical,39.7399503,-104.918781,5926,Denver,CO,80220,Medical Marijuana Dispensary
+387,Herbal Healing,38.85837,-104.753984,1785,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+388,High Country Healing 4,38.897574,-104.8516445,1330,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+389,NaturaLeaf,38.8195689,-104.8245521,1004,Colorado Springs,CO,80903,Medical Marijuana Dispensary
+390,The Treehouse,38.8782,-104.824035,34,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+391,Maggies Farm - Fillmore - Medical Only,38.8744381,-104.8095053,818,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+392,RiverRock South,39.7254677,-104.9996826,990,Denver,CO,80204,Medical Marijuana Dispensary
+393,Sweet Leaf - Federal Heights (Medical Only),39.8683562,-105.024042,9462,Denver,CO,80260,Medical Marijuana Dispensary
+394,The Dankery,38.8851645,-104.8307101,3745,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+395,The Healing Canna,38.8360487,-104.7605576,3692,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+396,Whole Meds - Medical & Recreational,39.7699617,-104.9788853,3450,Denver,CO,80216,Medical Marijuana Dispensary
+397,Maggies Farm - Nevada - Medical Only,38.8128245,-104.822755,1424,Colorado Springs,CO,80905,Medical Marijuana Dispensary
+398,Trill Evolutions,39.7973612,-104.8606854,5550,Denver,CO,80239,Medical Marijuana Dispensary
+399,Good Meds Englewood,39.6546954,-105.0256888,3431,Englewood,CO,80110,Medical Marijuana Dispensary
+400,Cannabicare,38.8503098,-104.6860938,1466,Colorado Springs,CO,80915,Medical Marijuana Dispensary
+401,Emerald City Wellness,38.832488,-104.8370894,621,Colorado Springs,CO,80905,Medical Marijuana Dispensary
+402,Grow Life,38.798595,-104.800368,1516,Colorado Springs,CO,80905,Medical Marijuana Dispensary
+403,ORGANIX,39.5076381,-106.0522591,1795,Breckenridge,CO,80424,Medical Marijuana Dispensary
+404,Magnolia Road Cannabis Co. - Medical,40.0173096,-105.2526539,1780,Boulder,CO,80301,Medical Marijuana Dispensary
+405,Lush,39.7185245,-105.0172806,2490,Denver,CO,80223,Medical Marijuana Dispensary
+406,Sweet Leaf - Tejon Medical,39.7762802,-105.0116776,4379,Denver,CO,80211,Medical Marijuana Dispensary
+407,Todays Health Care lll,38.8368415,-104.7896626,2103,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+408,Rocky Mountain Miracles,38.8359226,-104.7863508,2316,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+409,Affinity Dispensary,39.740438,-104.8979919,7739,Denver,CO,80220,Medical Marijuana Dispensary
+410,Kind Love,39.7109486,-104.9364621,4380,Denver,CO,80246,Medical Marijuana Dispensary
+411,The Green House - MED Only,38.8277754,-104.8415617,410,Colorado Springs,CO,80905,Medical Marijuana Dispensary
+412,Good Meds Lakewood,39.7397778,-105.0916079,8420,Lakewood,CO,80215,Medical Marijuana Dispensary
+413,LivWell on Murray,38.8412301,-104.7484141,570,Colorado Springs,CO,80915,Medical Marijuana Dispensary
+414,Altitude Organic Medicine - Platte Ave,38.8377086,-104.7844911,2354,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+415,Altitude Organic Medicine - South Tejon,38.8259658,-104.8236194,523,Colorado Springs,CO,80903,Medical Marijuana Dispensary
+416,Trill Alternatives,40.019181,-105.2752,1537,Boulder,CO,80302,Medical Marijuana Dispensary
+417,Todays Health Care II,38.8298231,-104.8410583,318,Colorado Springs,CO,80905,Medical Marijuana Dispensary
+418,Options Medical Center - Wheat Ridge,39.7786075,-105.0990869,9085,Wheat Ridge,CO,80033,Medical Marijuana Dispensary
+419,THC The Herbal Center - Medical +18,39.7682828,-104.8479418,12005,Denver,CO,80239,Medical Marijuana Dispensary
+420,Todays Health Care,38.8761166,-104.8387592,975,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+421,Ajoya Lakewood - Medical,39.7397889,-105.1321169,11950,Denver,CO,80215,Medical Marijuana Dispensary
+422,Herbs4you - Medical,39.7302338,-104.9865041,20,Denver,CO,80203,Medical Marijuana Dispensary
+423,Pure Intentions Wellness,38.8359225,-104.7567534,201,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+424,The Herbal Cure,39.698886,-104.983471,985,Denver,CO,80209,Medical Marijuana Dispensary
+425,Third Day Apothecary,38.9022231,-104.7694476,4865,Colorado Springs,CO,80918,Medical Marijuana Dispensary
+426,MC Caregivers,38.9180712,-104.7879077,6020,Colorado Springs,CO,80918,Medical Marijuana Dispensary
+427,Marimeds,38.8256101,-104.8209973,222,Colorado Springs,CO,80903,Medical Marijuana Dispensary
+428,Doctors Orders,38.8387745,-104.7899123,2106,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+429,Dr. Releaf Inc.,38.8444688,-104.7385194,815,Colorado Springs,CO,80915,Medical Marijuana Dispensary
+430,New Age Medical LLC and Humboldt Care,38.8378046,-104.700525,6823,Colorado Springs,CO,80915,Medical Marijuana Dispensary
+431,Green Man Cannabis Downtown - Medical,39.7375209,-104.9991614,1355,Denver,CO,80204,Medical Marijuana Dispensary
+432,Trenchtown Medical Marijuana Center,39.7281892,-105.0532487,736,Lakewood,CO,80214,Medical Marijuana Dispensary
+433,Natures Herbs and Wellness Center,40.3943728,-104.6859358,549,Garden City,CO,80631,Medical Marijuana Dispensary
+434,The Clinic on Colfax- Medical,39.7403736,-104.9331564,4625,Denver,CO,80220,Medical Marijuana Dispensary
+435,Levity Wellness,38.876022,-104.8291984,426,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+436,Three Rivers Organics,38.2455501,-104.5789234,1714,Pueblo,CO,81006,Medical Marijuana Dispensary
+437,Native Roots Dispensary Colorado Springs @ Uintah,38.8477546,-104.8461973,1705,Colorado Springs,CO,80904,Medical Marijuana Dispensary
+438,The Peaceful Choice,40.0144952,-105.179393,7464,Boulder,CO,80303,Medical Marijuana Dispensary
+439,Mile High Green Cross,39.7300748,-104.9870286,852,Denver,CO,80203,Medical Marijuana Dispensary
+440,A Wellness Center,38.8742668,-104.8257176,2918,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+441,"Stained Glass, Inc.",38.8352806,-104.7941521,123,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+442,DANK Colorado- Medical Use,39.7699183,-104.9298035,3835,Denver,CO,80207,Medical Marijuana Dispensary
+443,The Dandelion by Native Roots Dispensary,40.016162,-105.2840612,845,Boulder,CO,80302,Medical Marijuana Dispensary
+444,Canna Meds Wellness Center,38.8403074,-104.7669903,506,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+445,Infinite Wellness Center- Ft. Collins,40.5988632,-105.0760546,900,Fort Collins,CO,80524,Medical Marijuana Dispensary
+446,The Clinic on Jewell- Medical,39.6817526,-105.1298985,12018,Lakewood,CO,80228,Medical Marijuana Dispensary
+447,Altitude Organic Medicine - Academy Blvd,38.929188,-104.793014,6755,Colorado Springs,CO,80918,Medical Marijuana Dispensary
+448,MMJ America Downtown,39.7520366,-104.9898434,2042,Denver,CO,80205,Medical Marijuana Dispensary
+449,The Hemp Center Co Springs,38.8471587,-104.863247,2501,Colorado Springs,CO,80904,Medical Marijuana Dispensary
+450,INFINITE WELLNESS CENTER LAKEWOOD,39.7439919,-105.1102254,1701,Lakewood,CO,80215,Medical Marijuana Dispensary
+451,Green Sativa,39.8500526,-105.006728,8411,Federal Heights,CO,80260,Medical Marijuana Dispensary
+452,CYS Center 80916,38.809024,-104.7396284,1675,Colorado Springs,CO,80916,Medical Marijuana Dispensary
+453,Ajoya Louisville,39.9615715,-105.1661773,1100,Louisville,CO,80027,Medical Marijuana Dispensary
+454,Tree of Wellness,38.8767483,-104.8395831,1000,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+455,New Age Medical LLC and Humboldt Care #2,38.8967267,-104.8516793,1324,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+456,Natural Alternatives for Health Medical,40.4928893,-105.0769884,6712,Fort Collins,CO,80525,Medical Marijuana Dispensary
+457,Native Roots Dispensary Colorado Springs @ S Tejon,38.8127764,-104.8243286,1433,Colorado Springs,CO,80905,Medical Marijuana Dispensary
+458,Medicine Man Denver - Medical 21+,39.7836128,-104.8520453,4750,Denver,CO,80239,Medical Marijuana Dispensary
+459,The Herb Shoppe,38.8526155,-104.8709217,3020,Colorado Springs,CO,80904,Medical Marijuana Dispensary
+460,Canna Cabinet,38.2181074,-104.6409509,2630,Pueblo,CO,81004,Medical Marijuana Dispensary
+461,Pink House Cherry,39.7143497,-104.9464622,111,Denver,CO,80209,Medical Marijuana Dispensary
+462,Boulder Wellness Center,40.014154,-105.2272534,5420,Boulder,CO,80303,Medical Marijuana Dispensary
+463,LivWell Lakewood,39.7111699,-105.0586771,5660,Lakewood,CO,80226,Medical Marijuana Dispensary
+464,Maggies Farm Pueblo West- Medical,38.3390017,-104.740745,74,Pueblo West,CO,81007,Medical Marijuana Dispensary
+465,AMCH - MEDICAL,39.7369969,-104.9721145,1301,Denver,CO,80218,Medical Marijuana Dispensary
+466,Quality Choice Alternative Care Center,38.8385979,-104.7828756,2398,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+467,Native Roots Dispensary Denver Downtown - Medical,39.7463949,-104.9944211,1555,Denver,CO,80202,Medical Marijuana Dispensary
+468,Lightshade - Holly Medical,39.772188,-104.921873,3950,Denver,CO,80207,Medical Marijuana Dispensary
+469,Verde Natural on Colfax,39.7403271,-104.9284229,5101,Denver,CO,80220,Medical Marijuana Dispensary
+470,Green Man Cannabis South Denver - Medical,39.6533694,-104.9037258,7289,Denver,CO,80224,Medical Marijuana Dispensary
+471,Wellness Center of Denver,39.7083512,-104.8749249,330,Denver,CO,80247,Medical Marijuana Dispensary
+472,Herbal Wellness,39.9856334,-105.0949029,400,Lafayette,CO,80026,Medical Marijuana Dispensary
+473,Universal Herbs,39.7524114,-104.9849314,800,Denver,CO,80205,Medical Marijuana Dispensary
+474,LivWell on Tejon,38.8133678,-104.825056,1414,Colorado Springs,CO,80905,Medical Marijuana Dispensary
+475,MMJ America Golden Triangle,39.7372923,-104.9944645,1321,Denver,CO,80204,Medical Marijuana Dispensary
+476,Pink House Colorado Springs,38.8415494,-104.7748114,700,Colorado Springs,CO,80909,Medical Marijuana Dispensary
+477,Herbal Elements,,,0,Avon,,,Medical Marijuana Dispensary
+478,High Level Health-Colfax,39.7397984,-104.9625528,2028,Denver,CO,80206,Medical Marijuana Dispensary
+479,GroundSwell - Medical +18,39.740374,-104.9506193,3121,Denver,CO,80206,Medical Marijuana Dispensary
+480,Local Product of Colorado - Medical,,,0,Denver,,,Medical Marijuana Dispensary
+481,Solace Meds - Medical,40.5060447,-105.0732263,301,Fort Collins,CO,80525,Medical Marijuana Dispensary
+482,Patients Choice Broadway - Medical,39.6757574,-104.9876369,2251,Denver,CO,80210,Medical Marijuana Dispensary
+483,RiverRock North,39.7855193,-104.9597114,4935,Denver,CO,80216,Medical Marijuana Dispensary
+484,Rocky Road West,38.8120377,-104.823373,1530,Colorado Springs,CO,80905,Medical Marijuana Dispensary
+485,Briargate Wellness Center LLC.,38.9264784,-104.8105128,890,Colorado Springs,CO,80918,Medical Marijuana Dispensary
+486,Denver Dispensary - Medical,39.7868702,-104.9460203,4975,Denver,CO,80216,Medical Marijuana Dispensary
+487,Elite Organics,40.5763613,-105.0767092,804,Fort Collins,CO,80524,Medical Marijuana Dispensary
+488,A Cut Above - Denver,39.6817255,-104.9876501,1911,Denver,CO,80210,Medical Marijuana Dispensary
+489,The Health Center Uptown - Medical,39.744058,-104.973044,1736,Denver,CO,80218,Medical Marijuana Dispensary
+490,BioMeds,38.798969,-104.8010089,2301,Colorado Springs,CO,80905,Medical Marijuana Dispensary
+491,Pikes Peak Cannabis Caregivers,38.7816269,-104.7591253,3715,Colorado Springs,CO,80910,Medical Marijuana Dispensary
+492,Verts Neighborhood Dispensary,40.574841,-105.0992467,1240,Fort Collins,CO,80521,Medical Marijuana Dispensary
+493,Native Roots Dispensary Frisco - Medical,39.5874055,-106.0941866,861,Frisco,CO,80443,Medical Marijuana Dispensary
+494,Green Dream Cannabis,40.072296,-105.197756,6700,Boulder,CO,80301,Medical Marijuana Dispensary
+495,LivWell on Nevada,38.8787606,-104.8191144,3234,Colorado Springs,CO,80907,Medical Marijuana Dispensary
+496,Green Cross Caregivers,39.6832634,-104.8804872,1842,Denver,CO,80231,Medical Marijuana Dispensary
+497,Best Colorado Meds (MEDICAL),39.7846556,-105.0671044,4800,Wheat Ridge,CO,80033,Medical Marijuana Dispensary
+498,Native Roots Dispensary Colorado Springs @ Austin Bluffs Pkwy,38.8912039,-104.7587807,3660,Colorado Springs,CO,80918,Medical Marijuana Dispensary
+499,Pineapple Exchange,39.7296235,-105.0233324,2895,Denver,CO,80204,Medical Marijuana Dispensary
+500,Green Mountain CARE,39.617903,-105.0164141,5423,Littleton,CO,80120,Medical Marijuana Dispensary
+501,Strawberry Fields Colorado Springs - Medical,38.8559461,-104.8782881,3404,Colorado Springs,CO,80904,Medical Marijuana Dispensary
+502,ALLGREENS,39.7285259,-104.9997234,762,Denver,CO,80204,Medical Marijuana Dispensary
+503,Discovery Bay Cannabis,47.9968834,-122.884723,282023,Port Townsend,WA,98368,Medical Marijuana Dispensary
+504,Hi Cascade - Portland,45.489339,-122.549561,11030,Portland,OR,97266,Medical Marijuana Dispensary
+505,Happy Leaf,45.5353352,-122.6522979,1301,Portland,OR,97232,Medical Marijuana Dispensary
+506,Blue Sky of Portland,45.5019016,-122.6584808,729,Portland,OR,97202,Medical Marijuana Dispensary
+507,Blooming Deals by Cannabis Nation,45.5204199,-122.8408588,15915,Beaverton,OR,97006,Medical Marijuana Dispensary
+508,"Sweet Relief - Astoria,OR",46.1890353,-123.8279799,1444,Astoria,OR,97103,Medical Marijuana Dispensary
+509,Oregon Weedery,45.5289259,-122.6989773,2312,Portland,OR,97210,Medical Marijuana Dispensary
+510,West Coast Organics,42.052597,-124.290451,855,Brookings,OR,97415,Medical Marijuana Dispensary
+511,The New Amsterdam,45.5629025,-122.6894387,2201,Portland,OR,97217,Medical Marijuana Dispensary
+512,Oregon Bud Company - Clackamas,45.4023474,-122.5695756,16631,Clackamas,OR,97015,Medical Marijuana Dispensary
+513,Shango - Hillsboro,45.5086213,-122.9646407,1775,Hillsboro,OR,97123,Medical Marijuana Dispensary
+514,Mountain View Naturals,45.711792,-121.5226891,1020,Hood River,OR,97031,Medical Marijuana Dispensary
+515,TJs Provisions,44.0827515,-123.1540136,1910,Eugene,OR,97402,Medical Marijuana Dispensary
+516,SkunkRx,42.4306317,-123.1718579,8979,Grants Pass,OR,97527,Medical Marijuana Dispensary
+517,Hi Cascade - Salem,44.8817733,-123.0292763,5070,Salem,OR,97306,Medical Marijuana Dispensary
+518,HI Cascade - Waldport,44.4291607,-124.0603147,220,Waldport,OR,97394,Medical Marijuana Dispensary
+519,Hi Cascade - Depoe Bay,44.8130045,-124.0621258,104,Depoe Bay,OR,97341,Medical Marijuana Dispensary
+520,Silver Stem Cannabis,45.5369292,-122.6218167,1926,Portland,OR,97212,Medical Marijuana Dispensary
+521,Puddletown Organics,45.4978913,-122.578103,8201,Portland,OR,97266,Medical Marijuana Dispensary
+522,Brothers Cannabis,45.5049523,-122.6261818,3609,Portland,OR,97202,Medical Marijuana Dispensary
+523,Natural Rxemedies - East,45.403754,-122.6224994,16554,Oak Grove,OR,97267,Medical Marijuana Dispensary
+524,The Green Planet,45.4933332,-122.7801142,10020,Portland,OR,97225,Medical Marijuana Dispensary
+525,Mandys Med Club,43.79424,-123.061659,335,Cottage Grove,OR,97424,Medical Marijuana Dispensary
+526,Gorge Greenery,45.7086227,-121.5108607,13,Hood River,OR,97031,Medical Marijuana Dispensary
+527,Tree PDX (Portland Medicine Pot),45.5589829,-122.7405693,5135,Portland,OR,97210,Medical Marijuana Dispensary
+528,Madrone Cannabis Club,42.184441,-122.655454,481,Ashland,OR,97520,Medical Marijuana Dispensary
+529,Kind Heart Collective,45.5827195,-122.6871015,8217,Portland,OR,97217,Medical Marijuana Dispensary
+530,Hi Cascade - Eugene,44.0527123,-123.3327833,25561,Veneta,OR,97487,Medical Marijuana Dispensary
+531,Shango - Forest Grove,45.5205548,-123.0803396,3821,Forest Grove,OR,97116,Medical Marijuana Dispensary
+532,Foster Buds,45.4940145,-122.6058386,5522,Portland,OR,97206,Medical Marijuana Dispensary
+533,Club Sky High,45.5922812,-122.756702,8957,Portland,OR,97203,Medical Marijuana Dispensary
+534,The Green Remedy,45.4974202,-122.534677,12507,Portland,OR,97236,Medical Marijuana Dispensary
+535,Cannabis Nation,45.990148,-123.922038,550,Seaside,OR,97138,Medical Marijuana Dispensary
+536,Flowr of Lyfe,44.0499258,-123.0946907,114,Eugene,OR,97401,Medical Marijuana Dispensary
+537,5th LMNT,44.1080634,-121.295757,63552,Bend,OR,97701,Medical Marijuana Dispensary
+538,Mindrite Dispensary,45.53056,-122.6893385,1780,Portland,OR,97209,Medical Marijuana Dispensary
+539,Oregon Bud Company-Beaverton,45.4961941,-122.8083667,3270,Beaverton,OR,97005,Medical Marijuana Dispensary
+540,Rogue River Herbal Pain Management Center,42.4323756,-123.16373,510,Rogue River,OR,97537,Medical Marijuana Dispensary
+541,Phresh Cannabis,45.51861,-123.097474,2762,Forest Grove,OR,97116,Medical Marijuana Dispensary
+542,TreeHouse Collective,45.5277608,-122.6411546,2419,Portland,OR,97232,Medical Marijuana Dispensary
+543,Tamerans Dispensary,42.496954,-123.370925,3388,Grants Pass,OR,97526,Medical Marijuana Dispensary
+544,"Sweet Relief - Tillamook,OR",45.4580169,-123.8446741,1907,Tillamook,OR,97141,Medical Marijuana Dispensary
+545,South Coast Dispensaries,42.055107,-124.2919035,1025,Brookings,OR,97415,Medical Marijuana Dispensary
+546,CannaKing Marijuana Dispensaries,43.227125,-123.359121,1449,Roseburg,OR,97470,Medical Marijuana Dispensary
+547,Cannabend,44.0860927,-121.3058414,3312,Bend,OR,97701,Medical Marijuana Dispensary
+548,The Herbary Oregon,45.4380042,-122.754254,11642,Tigard,OR,97223,Medical Marijuana Dispensary
+549,Sweet Relief - Scappoose,45.7576176,-122.8784572,52515,Scappoose,OR,97056,Medical Marijuana Dispensary
+550,Shango - Molalla,45.1477976,-122.5775218,109,Molalla,OR,97038,Medical Marijuana Dispensary
+551,Kush Gardens,42.608725,-122.813652,21226,Shady Cove,OR,97539,Medical Marijuana Dispensary
+552,Satchel,45.572849,-122.6815709,6900,Portland,OR,97217,Medical Marijuana Dispensary
+553,Shango - Harold,,,0,Portland,,,Medical Marijuana Dispensary
+554,Oregon Coast Dispensary,44.639161,-124.0611074,861,Newport,OR,97365,Medical Marijuana Dispensary
+555,Harvest Moon Cannabis,43.951079,-124.103885,85289,Florence,OR,97439,Medical Marijuana Dispensary
+556,Good Karma - Springfield,44.046282,-122.978772,3332,Springfield,OR,97478,Medical Marijuana Dispensary
+557,Alberta Green House,45.5592591,-122.6522451,1313,Portland,OR,97211,Medical Marijuana Dispensary
+558,House of Leaves,42.2052011,-122.7200183,488,Ashland,OR,97520,Medical Marijuana Dispensary
+559,Twenty After Four Wellness Center,44.0553265,-123.1090656,420,Eugene,OR,97402,Medical Marijuana Dispensary
+560,GroHi Station,45.4978094,-122.5100388,14812,Portland,OR,97236,Medical Marijuana Dispensary
+561,High Tide Wellness,42.0420226,-124.2493151,15957,Harbor,OR,97415,Medical Marijuana Dispensary
+562,JAYNE,45.5387499,-122.6620002,2145,Portland,OR,97212,Medical Marijuana Dispensary
+563,Dr. Jollys,44.0461056,-121.3028386,415,Bend,OR,97702,Medical Marijuana Dispensary
+564,Urban Farmacy Patient Resource Center,45.5260766,-122.6020593,420,Portland,OR,97213,Medical Marijuana Dispensary
+565,Portland Extracts,45.5050485,-122.6440097,2123,Portland,OR,97202,Medical Marijuana Dispensary
+566,Bud Bros,,,0,Brookings,,,Medical Marijuana Dispensary
+567,Green Mart,45.5026504,-122.8080467,12745,Beaverton,OR,97005,Medical Marijuana Dispensary
+568,Natural Wonders,45.5127657,-122.6227179,1402,Portland,OR,97214,Medical Marijuana Dispensary
+569,Buddhas Wellness Center LLC,42.7435078,-124.4941247,270,Port Orford,OR,97465,Medical Marijuana Dispensary
+570,TRU Cannabis Portland,45.5352581,-122.6573762,801,Portland,OR,97232,Medical Marijuana Dispensary
+571,Sweet Tree Farms,44.048589,-123.1618702,4097,Eugene,OR,97402,Medical Marijuana Dispensary
+572,Eugreen Health Center,44.049117,-123.151852,1000,Eugene,OR,97402,Medical Marijuana Dispensary
+573,Natural Rxemedies,45.4617751,-122.7030928,8700,Portland,OR,97219,Medical Marijuana Dispensary
+574,Shango - Win Sivers,45.5668063,-122.5384534,6033,Portland,OR,97220,Medical Marijuana Dispensary
+575,Jamaica Joels,44.0456901,-123.0930938,37,Eugene,OR,97401,Medical Marijuana Dispensary
+576,Apothecaria,43.8027148,-123.0394728,700,Cottage Grove,OR,97424,Medical Marijuana Dispensary
+577,Plane Janes,45.5651061,-122.5543064,10530,Portland,OR,97220,Medical Marijuana Dispensary
+578,Rare Earth Organics,44.0645397,-123.1361455,2699,Eugene,OR,97402,Medical Marijuana Dispensary
+579,"Left Coast Connection, LLC",45.5266625,-122.5596498,10055,Portland,OR,97220,Medical Marijuana Dispensary
+580,Herbalist Farmer,45.5232241,-122.5380618,45,Portland,OR,97220,Medical Marijuana Dispensary
+581,The Holistic Choice,44.93076,-123.045033,1045,Salem,OR,97302,Medical Marijuana Dispensary
+582,Botanica - Foster,45.4927599,-122.6015689,4124,Portland,OR,97206,Medical Marijuana Dispensary
+583,Green Health Associates,44.0681867,-123.1410601,607,Eugene,OR,97402,Medical Marijuana Dispensary
+584,Homegrown Oregon,44.9679824,-123.0313805,2820,Salem,OR,97301,Medical Marijuana Dispensary
+585,Collective Awakenings,45.5295013,-122.636966,2823,Portland,OR,97232,Medical Marijuana Dispensary
+586,Rip City Remedies,45.5049922,-122.6309524,3325,Portland,OR,97202,Medical Marijuana Dispensary
+587,Pure Green,45.5340102,-122.624239,3738,Portland,OR,97232,Medical Marijuana Dispensary
+588,Kush Dispensary of Oregon,44.9932409,-123.0270648,4785,Keizer,OR,97303,Medical Marijuana Dispensary
+589,Top Shelf Cannabis,45.2065787,-123.1985502,353,McMinnville,OR,97128,Medical Marijuana Dispensary
+590,Oregon Grown Gift Shop,45.5199439,-122.5786639,332,Portland,OR,97216,Medical Marijuana Dispensary
+591,Cannabliss - Sorority House,44.047445,-123.083906,588,Eugene,OR,97401,Medical Marijuana Dispensary
+592,Progressive Collective,45.5225037,-122.562706,9810,Portland,OR,97216,Medical Marijuana Dispensary
+593,Westside Wellness,45.493513,-122.8717138,18918,Aloha,OR,97007,Medical Marijuana Dispensary
+594,Eugene OG,44.045361,-123.062402,2045,Eugene,OR,97403,Medical Marijuana Dispensary
+595,Blackbird Indica,44.850901,-123.197648,319,Independence,OR,97351,Medical Marijuana Dispensary
+596,Miss Burns,45.8560867,-122.8246344,365,Saint Helens,OR,97051,Medical Marijuana Dispensary
+597,Portland Pot Shop,45.579476,-122.716539,4730,Portland,OR,97203,Medical Marijuana Dispensary
+598,Glisan Buds,45.5266463,-122.588458,7201,Portland,OR,97213,Medical Marijuana Dispensary
+599,Going Green West Coast,44.6432487,-123.932,41,Toledo,OR,97391,Medical Marijuana Dispensary
+600,Club Pitbull,44.9277405,-122.9810671,4088,Salem,OR,97301,Medical Marijuana Dispensary
+601,Kaleafa,45.4789515,-122.6080152,5232,Portland,OR,97206,Medical Marijuana Dispensary
+602,Cannabliss - Springfield,44.0464119,-122.9886189,2600,Springfield,OR,97477,Medical Marijuana Dispensary
+603,Attis Trading Company - Barbur,45.4688824,-122.692557,7737,Portland,OR,97219,Medical Marijuana Dispensary
+604,Bloom Well,44.0679891,-121.3055723,1814,Bend,OR,97701,Medical Marijuana Dispensary
+605,Shaman Cannabis,45.5332043,-122.5477854,11134,Portland,OR,97220,Medical Marijuana Dispensary
+606,High Desert Botanicals,43.6692138,-121.5034438,51456,La Pine,OR,97739,Medical Marijuana Dispensary
+607,Cannabliss - Burnside,45.523471,-122.697035,2231,Portland,OR,97210,Medical Marijuana Dispensary
+608,Sweet Leaf - Portland,45.5051569,-122.538074,2367,Portland,OR,97233,Medical Marijuana Dispensary
+609,Serra Downtown,45.5206215,-122.6718191,220,Portland,OR,97204,Medical Marijuana Dispensary
+610,Green Dragon Herbal Clinic,44.621118,-123.9373297,185,Toledo,OR,97391,Medical Marijuana Dispensary
+611,Nectar - Barbur,45.446343,-122.731356,10931,Portland,OR,97219,Medical Marijuana Dispensary
+612,Top Shelf Medicine,44.0595916,-121.2935483,815,Bend,OR,97701,Medical Marijuana Dispensary
+613,Green Oasis - Sellwood,45.4645721,-122.6552067,1035,Portland,OR,97202,Medical Marijuana Dispensary
+614,Big Bhang,46.074256,-122.904544,74382,Rainier,OR,97048,Medical Marijuana Dispensary
+615,Greenland PDX,45.5442371,-122.6994314,3075,Portland,OR,97210,Medical Marijuana Dispensary
+616,La Mota - Portland North East,45.5589932,-122.561011,4999,Portland,OR,97220,Medical Marijuana Dispensary
+617,Healing Green Dispensary MMD,44.860327,-123.184224,769,Independence,OR,97351,Medical Marijuana Dispensary
+618,Next Level Wellness,44.0272745,-123.0904597,2837,Eugene,OR,97405,Medical Marijuana Dispensary
+619,Northwest Releaf,45.4756945,-122.6004018,6126,Portland,OR,97206,Medical Marijuana Dispensary
+620,Cannabliss - Fire House,45.5090582,-122.6590729,1917,Portland,OR,97214,Medical Marijuana Dispensary
+621,CannaMedicine,44.91005,-123.04608,3212,Salem,OR,97302,Medical Marijuana Dispensary
+622,Attis Trading Company - Gladstone,45.4930476,-122.6392649,2606,Portland,OR,97202,Medical Marijuana Dispensary
+623,RKO,45.4630142,-122.6390997,8265,Portland,OR,97202,Medical Marijuana Dispensary
+624,Nature Scripts,42.340215,-123.334623,6790,Grants Pass,OR,97527,Medical Marijuana Dispensary
+625,"Slabtown Cannabis Proprietors, LLC",45.5403143,-122.7039525,2507,Portland,OR,97210,Medical Marijuana Dispensary
+626,Thurman Street Collective,45.5352759,-122.7005718,2384,Portland,OR,97210,Medical Marijuana Dispensary
+627,Blazin,45.556008,-122.569119,9046,Portland,OR,97220,Medical Marijuana Dispensary
+628,Marijuana Paradise,45.4556083,-122.7170574,9663,Portland,OR,97219,Medical Marijuana Dispensary
+629,Herbal Choices,43.3382485,-124.3186058,63247,Charleston,OR,97420,Medical Marijuana Dispensary
+630,Patients Helping Patients,42.32495,-122.9016428,2390,Medford,OR,97501,Medical Marijuana Dispensary
+631,Stoney Only Clackamas,45.4082758,-122.55811,10287,Clackamas,OR,97015,Medical Marijuana Dispensary
+632,"Herbal Grasslands, LLC",44.8855365,-123.031782,1130,Salem,OR,97302,Medical Marijuana Dispensary
+633,Farma,45.5120876,-122.6562628,916,Portland,OR,97214,Medical Marijuana Dispensary
+634,La Cannaisseur,45.5990752,-122.7853422,10700,Portland,OR,97231,Medical Marijuana Dispensary
+635,Ancient Remedies,44.9331734,-123.0132697,2350,Salem,OR,97301,Medical Marijuana Dispensary
+636,Todays Herbal Choice,45.149577,-122.606439,31568,Molalla,OR,97038,Medical Marijuana Dispensary
+637,Central Organics,44.6242537,-121.1306151,780,Madras,OR,97741,Medical Marijuana Dispensary
+638,Oregon Farmacy,42.3262674,-122.8734849,1,Medford,OR,97501,Medical Marijuana Dispensary
+639,Alternative Solutions,45.497592,-122.523903,13560,Portland,OR,97236,Medical Marijuana Dispensary
+640,The FlowerShop - Powell Hurst,45.503693,-122.5338332,12550,Portland,OR,97236,Medical Marijuana Dispensary
+641,Attis Trading Company - Tillamook,45.471289,-123.845541,1830,Tillamook,OR,97141,Medical Marijuana Dispensary
+642,Nectar - 3350 NE Sandy Blvd,45.5318577,-122.6296999,3350,Portland,OR,97232,Medical Marijuana Dispensary
+643,Panacea,45.54624,-122.5940638,6714,Portland,OR,97213,Medical Marijuana Dispensary
+644,Green Gratitude,45.4895484,-122.5565688,10322,Portland,OR,97266,Medical Marijuana Dispensary
+645,The Joint,44.9498013,-122.9945799,3270,Salem,OR,97301,Medical Marijuana Dispensary
+646,Growing ReLeaf,45.4899794,-122.7886022,4160,Beaverton,OR,97005,Medical Marijuana Dispensary
+647,Breeze Botanicals - Ashland,42.1836387,-122.688686,1526,Ashland,OR,97520,Medical Marijuana Dispensary
+648,Maritime Cafe,45.3965624,-122.6169868,17415,Portland,OR,97267,Medical Marijuana Dispensary
+649,The Finest Kind Cannabis,45.5192727,-122.5695127,9127,Portland,OR,97216,Medical Marijuana Dispensary
+650,DiamondTree - Eastside - Bend,44.0546486,-121.2631911,2715,Bend,OR,97701,Medical Marijuana Dispensary
+651,Uplift Botanicals,45.5624642,-122.6309627,5421,Portland,OR,97211,Medical Marijuana Dispensary
+652,The Flowershop St. Helens,45.820299,-122.84867,56821,Warren,OR,97053,Medical Marijuana Dispensary
+653,The Greener Side,44.0427862,-123.0906639,1553,Eugene,OR,97401,Medical Marijuana Dispensary
+654,Attis Trading Company - Cully,45.558736,-122.5979912,4920,Portland,OR,97218,Medical Marijuana Dispensary
+655,Oregon Medigreen,44.0536898,-123.0992985,570,Eugene,OR,97401,Medical Marijuana Dispensary
+656,Cannabis Corner,45.4832427,-122.589451,5431,Portland,OR,97206,Medical Marijuana Dispensary
+657,Little Amsterdam - Macadam,45.4848061,-122.6743553,5320,Portland,OR,97239,Medical Marijuana Dispensary
+658,The Medication Station - Bend,44.0582997,-121.3089831,817,Bend,OR,97701,Medical Marijuana Dispensary
+659,Gram Central Station,45.5694925,-122.6609487,6430,Portland,OR,97211,Medical Marijuana Dispensary
+660,Little Amsterdam - McLoughlin,45.3862521,-122.6096771,18819,Portland,OR,97267,Medical Marijuana Dispensary
+661,P.A.P.A.s Dispensary,,,0,Cave Junction,,,Medical Marijuana Dispensary
+662,The Peoples Wellness Center,44.060593,-123.078743,71,Eugene,OR,97401,Medical Marijuana Dispensary
+663,Hi Cannabis - Astoria,46.1903999,-123.840774,193,Astoria,OR,97103,Medical Marijuana Dispensary
+664,Greeley Gallery,45.5701308,-122.6954132,6512,Portland,OR,97217,Medical Marijuana Dispensary
+665,Stumptown Cannabis,45.4463511,-122.5792684,10587,Happy Valley,OR,97086,Medical Marijuana Dispensary
+666,The Herb Center,44.0718287,-121.3061194,2205,Bend,OR,97701,Medical Marijuana Dispensary
+667,Oregon House of Herbs,45.596342,-122.746287,8105,Portland,OR,97203,Medical Marijuana Dispensary
+668,OG Collective Dispensary,44.9692417,-122.9920108,3410,Salem,OR,97301,Medical Marijuana Dispensary
+669,Oregon Euphorics,44.0510487,-121.3301814,70,Bend,OR,97702,Medical Marijuana Dispensary
+670,Archive Portland,45.4767406,-122.5532722,10645,Portland,OR,97266,Medical Marijuana Dispensary
+671,Canna Royal,44.0526989,-123.3170634,25808,Veneta,OR,97487,Medical Marijuana Dispensary
+672,Canna and the City,45.4970815,-122.6761364,3607,Portland,OR,97239,Medical Marijuana Dispensary
+673,Stonies LLC,43.3895014,-124.2207455,3682,North Bend,OR,97459,Medical Marijuana Dispensary
+674,Del Norte Patients Together,41.7589547,-124.166635,723,Crescent City,CA,95531,Medical Marijuana Dispensary
+675,Mt. Hood Wellness Center,45.504447,-122.548629,11121,Portland,OR,97266,Medical Marijuana Dispensary
+676,Club Sockeye,42.4311273,-124.4114034,94253,Gold Beach,OR,97444,Medical Marijuana Dispensary
+677,Doctors Orders Portland,45.5475629,-122.5784065,3424,Portland,OR,97220,Medical Marijuana Dispensary
+678,Green-Way Medicinal,44.964944,-123.007515,1865,Salem,OR,97301,Medical Marijuana Dispensary
+679,Bernies Universal Dispensary,44.610233,-124.0515519,3842,Newport,OR,97366,Medical Marijuana Dispensary
+680,Stash Cannabis Company,45.486188,-122.7791233,9952,Beaverton,OR,97005,Medical Marijuana Dispensary
+681,Attis Trading Company- Lincoln City,44.9874358,-124.0053999,3026,Lincoln City,OR,97367,Medical Marijuana Dispensary
+682,Green Apple N.W.,45.454485,-122.4144,24180,Damascus,OR,97089,Medical Marijuana Dispensary
+683,Terpene Station - Eugene,44.0718623,-123.1181102,645,Eugene,OR,97404,Medical Marijuana Dispensary
+684,West Salem Cannabis,44.9295436,-123.08108,2625,Salem,OR,97304,Medical Marijuana Dispensary
+685,Divine Kind,45.4624259,-122.6852779,8601,Portland,OR,97219,Medical Marijuana Dispensary
+686,The Good Leaf Organic Collective,44.092649,-121.30618,20360,Bend,OR,97701,Medical Marijuana Dispensary
+687,Waldport Cannabis,44.424508,-124.0686171,250,Waldport,OR,97394,Medical Marijuana Dispensary
+688,Oregons Green Rush,44.1023879,-123.1313705,2644,Eugene,OR,97404,Medical Marijuana Dispensary
+689,New Leaf CannaCenter,45.2304734,-123.1623722,3325,McMinnville,OR,97128,Medical Marijuana Dispensary
+690,Breeze Botanicals - Gold Hill,42.4313879,-123.0472997,317,Gold Hill,OR,97525,Medical Marijuana Dispensary
+691,CannaMedicine Newport,44.6480997,-124.0543104,157,Newport,OR,97365,Medical Marijuana Dispensary
+692,La Mota - Southeast Portland,45.4692624,-122.6102219,7435,Portland,OR,97206,Medical Marijuana Dispensary
+693,Local Leaf,45.4654197,-122.7518566,7570,Portland,OR,97223,Medical Marijuana Dispensary
+694,Nectar- 4125 N. Mississippi Ave.,45.5537795,-122.6757643,4125,Portland,OR,97217,Medical Marijuana Dispensary
+695,Caspers Cannabis Club,44.046309,-123.079675,814,Eugene,OR,97401,Medical Marijuana Dispensary
+696,Hi Cannabis - Portland,45.4977146,-122.5821524,7827,Portland,OR,97206,Medical Marijuana Dispensary
+697,NW Compassion Medical Centers,45.5366409,-122.418056,1970,Wood Village,OR,97060,Medical Marijuana Dispensary
+698,Green Oaks,43.743338,-122.464319,48122,Oakridge,OR,97463,Medical Marijuana Dispensary
+699,Tokyo Starfish,44.0516786,-121.3151819,542,Bend,OR,97701,Medical Marijuana Dispensary
+700,Top Shelf Wellness Center,42.2819416,-122.8176969,205,Phoenix,OR,97535,Medical Marijuana Dispensary
+701,The Herbal Connection,44.0968786,-123.1181957,463,Eugene,OR,97404,Medical Marijuana Dispensary
+702,BUDS LLC,44.0589132,-123.0993514,439,Eugene,OR,97401,Medical Marijuana Dispensary
+703,New Vansterdam Medical - Portland,45.486277,-122.725106,4709,Portland,OR,97221,Medical Marijuana Dispensary
+704,Kings of Canna,45.5556554,-122.6504105,1465,Portland,OR,97211,Medical Marijuana Dispensary
+705,Serra Eugene,44.0478916,-123.1112074,1201,Eugene,OR,97402,Medical Marijuana Dispensary
+706,High Grade Organics,44.0493989,-121.3033163,224,Bend,OR,97702,Medical Marijuana Dispensary
+707,Frequent Vibrationz,44.0442351,-123.0909246,1409,Eugene,OR,97401,Medical Marijuana Dispensary
+708,Cougar Cannabis,43.2133619,-123.3334303,1989,Roseburg,OR,97470,Medical Marijuana Dispensary
+709,Calyxes,45.470265,-122.707979,7501,Portland,OR,97219,Medical Marijuana Dispensary
+710,Emerald City Medicinal,44.0530344,-123.1150388,1474,Eugene,OR,97402,Medical Marijuana Dispensary
+711,La Mota (Rockaway Beach),45.6122071,-123.9437455,158,Rockaway Beach,OR,97136,Medical Marijuana Dispensary
+712,Oregon Bud Company-Keizer,44.9755263,-123.026806,3450,Keizer,OR,97303,Medical Marijuana Dispensary
+713,La Mota - Roseburg,43.2088734,-123.3466485,644,Roseburg,OR,97470,Medical Marijuana Dispensary
+714,Hwy 99 Cannabis Co,44.0730925,-123.1454325,1083,Eugene,OR,97402,Medical Marijuana Dispensary
+715,Oregons Herbal Remedies,44.0553402,-123.352423,88344,Veneta,OR,97487,Medical Marijuana Dispensary
+716,420ville,44.350924,-117.271104,210,Huntington,OR,97907,Medical Marijuana Dispensary
+717,Going Green Albany,44.630149,-123.05473,1225,Albany,OR,97322,Medical Marijuana Dispensary
+718,Whistling Sister Green Goddess,43.5376657,-123.2901205,559,Oakland,OR,97462,Medical Marijuana Dispensary
+719,Little Amsterdam - Nevada,45.4731861,-122.6716925,7035,Portland,OR,97219,Medical Marijuana Dispensary
+720,The Medication Station - Newport,44.6328566,-124.0578944,454,Newport,OR,97365,Medical Marijuana Dispensary
+721,Serra Belmont,45.5166041,-122.6396614,2519,Portland,OR,97214,Medical Marijuana Dispensary
+722,Going Green Grande Ronde,45.0607918,-123.5561248,25715,Willamina,OR,97396,Medical Marijuana Dispensary
+723,Smoke On The Mountain,45.3505449,-121.973222,23860,Mount Hood Village,OR,97067,Medical Marijuana Dispensary
+724,Ocean Grown Cannabis Company,45.1611147,-123.2033852,13580,McMinnville,OR,97128,Medical Marijuana Dispensary
+725,Amazon Organics,44.0191221,-123.0810621,3443,Eugene,OR,97405,Medical Marijuana Dispensary
+726,High Tide Wellness - Newport,44.626176,-124.061048,1164,Newport,OR,97365,Medical Marijuana Dispensary
+727,Siskiyou Medical Supply,42.1851478,-122.6834199,1796,Ashland,OR,97520,Medical Marijuana Dispensary
+728,Buds4U - Mapleton,44.0252795,-123.8570679,10692,Mapleton,OR,97453,Medical Marijuana Dispensary
+729,Cannabis LLC,44.046205,-122.996136,1936,Springfield,OR,97477,Medical Marijuana Dispensary
+730,Going Green Sweet Home,44.3970807,-122.7333867,925,Sweet Home,OR,97386,Medical Marijuana Dispensary
+731,Madras Resource Center,44.63418,-121.1293336,141,Madras,OR,97741,Medical Marijuana Dispensary
+732,Life is Good Healing of Oregon,44.8492246,-124.0448918,3885,Depoe Bay,OR,97341,Medical Marijuana Dispensary
+733,Cannabis & Co,45.4988868,-122.6906129,1010,Portland,OR,97239,Medical Marijuana Dispensary
+734,NoDak Green Prairie,44.0668498,-123.0733207,390,Eugene,OR,97401,Medical Marijuana Dispensary
+735,Canna Bros.,45.3031589,-122.9574636,2316,Newberg,OR,97132,Medical Marijuana Dispensary
+736,The Holistic Co-op,43.797002,-123.056916,1049,Cottage Grove,OR,97424,Medical Marijuana Dispensary
+737,Mt.Hood Wellness Center,45.4283897,-122.3369543,31277,Boring,OR,97009,Medical Marijuana Dispensary
+738,The Lucky Leaf,45.0041009,-122.7815984,208,Silverton,OR,97381,Medical Marijuana Dispensary
+739,Oasis Cannabis - Newberg,45.3025759,-122.9617545,308,Newberg,OR,97132,Medical Marijuana Dispensary
+740,Buds4U - Florence,43.9794139,-124.1195294,1480,Florence,OR,97439,Medical Marijuana Dispensary
+741,Botanica 12th Ave,45.521774,-122.653303,128,Portland,OR,97214,Medical Marijuana Dispensary
+742,Green Room,44.5935997,-123.2522321,2521,Corvallis,OR,97330,Medical Marijuana Dispensary
+743,The Portland Canna Connection,45.5117485,-122.6154884,1515,Portland,OR,97215,Medical Marijuana Dispensary
+744,The Green Front,45.526255,-122.593058,6814,Portland,OR,97213,Medical Marijuana Dispensary
+745,ReLeaf MM,45.5155836,-122.5374167,1034,Portland,OR,97233,Medical Marijuana Dispensary
+746,Oregons Finest,45.5294552,-122.6848883,1327,Portland,OR,97209,Medical Marijuana Dispensary
+747,Rose City Wellness Center,45.5237308,-122.6728888,214,Portland,OR,97209,Medical Marijuana Dispensary
+748,Deanz Greenz - Sandy,45.5586735,-122.5543855,10518,Portland,OR,97220,Medical Marijuana Dispensary
+749,CannaCopia Collective,44.0412014,-121.3034815,923,Bend,OR,97702,Medical Marijuana Dispensary
+750,Cherry City Compassion,44.919777,-123.0115968,2050,Salem,OR,97302,Medical Marijuana Dispensary
+751,Pacific Green,45.5624937,-122.6584313,710,Portland,OR,97211,Medical Marijuana Dispensary
+752,Kaya Shack - Salem,44.8710539,-123.0242848,5757,Salem,OR,97306,Medical Marijuana Dispensary
+753,Exodus Wellness Center and Social Club,45.4948781,-122.4963648,16211,Portland,OR,97236,Medical Marijuana Dispensary
+754,Oregons Best Meds,45.522278,-122.5587351,10128,Portland,OR,97216,Medical Marijuana Dispensary
+755,Portland Best Buds,45.5854087,-122.7312396,6313,Portland,OR,97203,Medical Marijuana Dispensary
+756,Ascend,45.5540683,-122.5196567,13836,Portland,OR,97230,Medical Marijuana Dispensary
+757,The Green House,45.558827,-122.666364,4936,Portland,OR,97217,Medical Marijuana Dispensary
+758,Sweet Leaf Cannabis - Springfield,44.046116,-122.970092,3912,Springfield,OR,97478,Medical Marijuana Dispensary
+759,Budlandia,45.5045769,-122.4940228,16446,Portland,OR,97236,Medical Marijuana Dispensary
+760,Kaya Shack,45.5123328,-122.6481284,1719,Portland,OR,97214,Medical Marijuana Dispensary
+761,Pacific Wave Resource Center,44.978383,-124.0116431,1543,Lincoln City,OR,97367,Medical Marijuana Dispensary
+762,Bridge City Collective - North Portland,45.554803,-122.667125,4312,Portland,OR,97217,Medical Marijuana Dispensary
+763,The Green Heart Oregon,45.2000277,-123.2041033,1208,McMinnville,OR,97128,Medical Marijuana Dispensary
+764,The CDC,45.4475762,-122.7661551,10015,Portland,OR,97223,Medical Marijuana Dispensary
+765,Medicine Tree LLC,45.2273311,-123.1772489,2046,McMinnville,OR,97128,Medical Marijuana Dispensary
+766,Moss Crossing,44.0284649,-123.1051672,2751,Eugene,OR,97405,Medical Marijuana Dispensary
+767,Rogue Valley Cannabis,42.409558,-122.8558109,6388,Central Point,OR,97502,Medical Marijuana Dispensary
+768,Banana Belt Safe Access Center,42.0529145,-124.2681894,16399,Harbor,OR,97415,Medical Marijuana Dispensary
+769,Western Oregon Dispensary - Newberg,45.3070859,-122.9474362,1015,Newberg,OR,97132,Medical Marijuana Dispensary
+770,Deanz Greenz - Foster,45.4817296,-122.5761573,5625,Portland,OR,97266,Medical Marijuana Dispensary
+771,Arizona Natural Selections of Scottsdale,33.6233004,-111.9217391,7320,Scottsdale,AZ,85260,Medical Marijuana Dispensary
+772,Glendale Greenhouse,33.6536348,-112.2349969,8160,Glendale,AZ,85308,Medical Marijuana Dispensary
+773,Sunflower Meds Mesa,33.4224097,-111.7187825,5205,Mesa,AZ,85205,Medical Marijuana Dispensary
+774,The Holistic Center,33.677664,-112.0291948,21035,Phoenix,AZ,85024,Medical Marijuana Dispensary
+775,The Downtown Dispensary,32.2280335,-110.9681866,221,Tucson,AZ,85705,Medical Marijuana Dispensary
+776,Nevada Medical Marijuana,35.161306,-114.5751434,1975,Laughlin,NV,89029,Medical Marijuana Dispensary
+777,Total Accountability Patient Care - Benson,31.967778,-110.295596,226,Benson,AZ,85602,Medical Marijuana Dispensary
+778,Greenhouse of Flagstaff,35.1976631,-111.6349688,460,Flagstaff,AZ,86001,Medical Marijuana Dispensary
+779,Superior Organics,33.2881613,-111.1034408,750,Superior,AZ,85173,Medical Marijuana Dispensary
+780,Hana Kingman,35.2539174,-114.0277419,2095,Kingman,AZ,86409,Medical Marijuana Dispensary
+781,Wholesale Flower,33.8316644,-111.9339492,6812,Cave Creek,AZ,85331,Medical Marijuana Dispensary
+782,Fusion Dispensaries of Wellton,32.6584255,-114.1439569,28841,Wellton,AZ,85356,Medical Marijuana Dispensary
+783,The Medicine Room,35.0345211,-110.7196686,2015,Winslow,AZ,86047,Medical Marijuana Dispensary
+784,White Mountain Health Center,33.6385947,-112.2627566,9420,Sun City,AZ,85351,Medical Marijuana Dispensary
+785,Yavapai Herbal Services Prescott Valley,34.5817068,-112.3547511,6287,Prescott Valley,AZ,86314,Medical Marijuana Dispensary
+786,Reef Dispensaries - Queen Creek,33.211763,-111.6846712,18423,Queen Creek,AZ,85142,Medical Marijuana Dispensary
+787,Desert Bloom Re-Leaf Center,32.2059137,-110.8208047,8060,Tucson,AZ,85710,Medical Marijuana Dispensary
+788,GREENPHARMS Dispensary Flagstaff,35.2414943,-111.5693114,7121,Flagstaff,AZ,86004,Medical Marijuana Dispensary
+789,Arizona Natural Remedies,33.6866358,-112.1082239,22041,Phoenix,AZ,85027,Medical Marijuana Dispensary
+790,Arizona Grass Roots Dispensary,,,0,Scottsdale,,,Medical Marijuana Dispensary
+791,Kompo,,,0,Taylor,,,Medical Marijuana Dispensary
+792,Farm Fresh Medical Marijuana Dispensary,34.4985486,-114.3472859,790,Lake Havasu City,AZ,86403,Medical Marijuana Dispensary
+793,BC Wellness Center,34.064951,-112.150123,34550,Black Canyon City,AZ,85324,Medical Marijuana Dispensary
+794,Sierra Vista Phytotherapeutics,31.5387674,-110.2567225,1633,Sierra Vista,AZ,85635,Medical Marijuana Dispensary
+795,High Mountain Health,35.1882157,-111.6628565,1250,Flagstaff,AZ,86001,Medical Marijuana Dispensary
+796,Valley of the Sun Medical Dispensary,33.4094656,-112.4069754,16200,Goodyear,AZ,85338,Medical Marijuana Dispensary
+797,Botanica - Tucson,32.3196275,-111.0479264,6205,Tucson,AZ,85741,Medical Marijuana Dispensary
+798,TruMed Premier Dispensary,33.4662834,-111.9952308,1613,Phoenix,AZ,85008,Medical Marijuana Dispensary
+799,Monarch,33.553979,-111.8927337,8729,Scottsdale,AZ,85258,Medical Marijuana Dispensary
+800,Oasis Dispensaries - Chandler,33.2057187,-111.8406973,26427,Chandler,AZ,85248,Medical Marijuana Dispensary
+801,Zen Dispensary New River,33.9086074,-112.1415071,46639,New River,AZ,85087,Medical Marijuana Dispensary
+802,Yavapai Herbal - Cottonwood,34.7288299,-112.0213741,675,Cottonwood,AZ,86326,Medical Marijuana Dispensary
+803,Ponderosa Releaf,32.9840376,-112.0969606,49237,Maricopa,AZ,85139,Medical Marijuana Dispensary
+804,Green Hills Patient Center,34.221084,-110.028613,3191,Show Low,AZ,85901,Medical Marijuana Dispensary
+805,Golden Leaf Wellness Center,33.4108668,-112.3401374,3828,Avondale,AZ,85323,Medical Marijuana Dispensary
+806,Mohave Green,34.957228,-114.596683,6870,Mohave Valley,AZ,86440,Medical Marijuana Dispensary
+807,Earths Healing,32.1670589,-110.9408969,2075,Tucson,AZ,85714,Medical Marijuana Dispensary
+808,Giving Tree Wellness Center - Mesa,33.3825209,-111.8108852,938,Mesa,AZ,85204,Medical Marijuana Dispensary
+809,Harvest of Scottsdale,33.6240375,-111.9037069,15190,Scottsdale,AZ,85260,Medical Marijuana Dispensary
+810,Route 66 Wellness Center - Williams,35.25152,-112.1843129,324,Williams,AZ,86046,Medical Marijuana Dispensary
+811,Natures AZ Medicines Phoenix,33.4653213,-112.1125895,2439,Phoenix,AZ,85009,Medical Marijuana Dispensary
+812,Valley Healing Group,35.0823615,-114.5952191,2840,Bullhead City,AZ,86442,Medical Marijuana Dispensary
+813,Natures Wonder Dispensary,33.4152137,-111.5526721,260,Apache Junction,AZ,85120,Medical Marijuana Dispensary
+814,Hana Green Valley,31.896647,-111.003035,1732,Green Valley,AZ,85614,Medical Marijuana Dispensary
+815,MMJ APOTHECARY,33.9641949,-112.753302,1175,Wickenburg,AZ,85390,Medical Marijuana Dispensary
+816,Herbal Wellness Center - Phoenix,33.4952218,-112.1472541,4126,Phoenix,AZ,85019,Medical Marijuana Dispensary
+817,Arizona Organix,33.5383257,-112.172732,5301,Glendale,AZ,85301,Medical Marijuana Dispensary
+818,GREENPHARMS Dispensary Mesa,33.3887015,-111.6765058,7235,Mesa,AZ,85209,Medical Marijuana Dispensary
+819,Sunflower Meds - Phoenix,33.3484875,-111.9744219,10827,Phoenix,AZ,85044,Medical Marijuana Dispensary
+820,PurpleMed Healing Center,32.2085341,-110.9807244,1010,Tucson,AZ,85745,Medical Marijuana Dispensary
+821,Emerald Palace,33.3463739,-111.8317397,175,Gilbert,AZ,85233,Medical Marijuana Dispensary
+822,PARC Dispensary Phoenix,33.4216158,-111.9910086,4201,Phoenix,AZ,85034,Medical Marijuana Dispensary
+823,Giving Tree Wellness Center - Phoenix,33.6823831,-112.0844063,21617,Phoenix,AZ,85027,Medical Marijuana Dispensary
+824,Desert Rose Phoenix,33.7121834,-112.0825009,24905,Phoenix,AZ,85085,Medical Marijuana Dispensary
+825,Arizona Cannabis Society,33.5550527,-112.3247599,8376,El Mirage,AZ,85335,Medical Marijuana Dispensary
+826,Encanto Green Cross Dispensary,33.4737518,-112.1160597,2620,Phoenix,AZ,85009,Medical Marijuana Dispensary
+827,Arizona Natural Selections of Peoria,33.5803709,-112.2576738,9275,Peoria,AZ,85345,Medical Marijuana Dispensary
+828,Natures AZ Medicines Fountain Hills,33.5962166,-111.7151327,16913,Fountain Hills,AZ,85268,Medical Marijuana Dispensary
+829,WAM - El Mirage,33.6095297,-112.3294229,12550,El Mirage,AZ,85335,Medical Marijuana Dispensary
+830,Phoenix Relief Center,33.3927524,-112.1338748,104,Phoenix,AZ,85041,Medical Marijuana Dispensary
+831,Urban Greenhouse Dispensary,33.4954134,-112.1155727,2630,Phoenix,AZ,85017,Medical Marijuana Dispensary
+832,The Nirvana Center,33.4481174,-112.1350928,2,Phoenix,AZ,85009,Medical Marijuana Dispensary
+833,All Greens Dispensary - Surprise AZ,33.6403408,-112.3497282,13431,Surprise,AZ,85378,Medical Marijuana Dispensary
+834,Bloom Phoenix Dispensary,33.4475071,-111.9919183,14,Phoenix,AZ,85034,Medical Marijuana Dispensary
+835,Nature Med,32.3382065,-111.0797355,5390,Tucson,AZ,85743,Medical Marijuana Dispensary
+836,The Green Halo - Tucson Dispensary,32.112663,-110.8587846,7710,Tucson,AZ,85756,Medical Marijuana Dispensary
+837,Green Farmacy,31.3994907,-109.9187384,1191,Bisbee,AZ,85603,Medical Marijuana Dispensary
+838,Horizon THC,33.5780701,-112.1249775,10040,Phoenix,AZ,85051,Medical Marijuana Dispensary
+839,YiLo Superstore,33.610736,-112.120069,2841,Phoenix,AZ,85053,Medical Marijuana Dispensary
+840,High Desert Healing - Phoenix,33.6016632,-112.0375957,12620,Phoenix,AZ,85022,Medical Marijuana Dispensary
+841,The Prime Leaf,32.235912,-110.9049496,4120,Tucson,AZ,85712,Medical Marijuana Dispensary
+842,Southern Arizona Integrated Therapies,32.220054,-110.841607,112,Tucson,AZ,85710,Medical Marijuana Dispensary
+843,Bloom Tucson,32.2917277,-110.9792137,4695,Tucson,AZ,85705,Medical Marijuana Dispensary
+844,Harvest of Tempe,33.3496649,-111.9475189,710,Tempe,AZ,85284,Medical Marijuana Dispensary
+845,Natural Remedy Patient Center,32.835515,-109.724071,1362,Safford,AZ,85546,Medical Marijuana Dispensary
+846,AArch Club,33.3921854,-111.9078733,1811,Tempe,AZ,85282,Medical Marijuana Dispensary
+847,Catalina Hills Care,32.4269869,-110.9607345,12152,Oro Valley,AZ,85755,Medical Marijuana Dispensary
+848,Kind Meds Inc.,,,0,Mesa,,,Medical Marijuana Dispensary
+849,Bloom Sedona,34.8735917,-111.7614222,465,Sedona,AZ,86336,Medical Marijuana Dispensary
+850,High Desert Healing,34.4938922,-114.3506365,1691,Lake Havasu City,AZ,86403,Medical Marijuana Dispensary
+851,Uncle Herbs Health Center,34.2425372,-111.3281894,200,Payson,AZ,85541,Medical Marijuana Dispensary
+852,Green Med Wellness Center,31.4711525,-110.9994333,1115,Rio Rico,AZ,85648,Medical Marijuana Dispensary
+853,Reef Dispensaries - Page Arizona,36.8942487,-111.4439927,1500,Page,AZ,86040,Medical Marijuana Dispensary
+854,Holistic Patient Wellness Group,33.0566245,-109.3016579,211,Morenci,AZ,85540,Medical Marijuana Dispensary
+855,wwI,35.253518,-114.0338,1570,Kingman,AZ,86409,Medical Marijuana Dispensary
+856,Bloom Copper Country,32.6192749,-110.7935428,1880,Oracle,AZ,85623,Medical Marijuana Dispensary
+857,Swell Farmacy,33.6046015,-112.3006212,11200,Youngtown,AZ,85363,Medical Marijuana Dispensary
+858,SWC Tempe State Licensed Dispensary,33.4248022,-111.8997888,2009,Tempe,AZ,85281,Medical Marijuana Dispensary
+859,Leaf Life,32.881056,-111.70716,1860,Casa Grande,AZ,85122,Medical Marijuana Dispensary
+860,SWC Prescott,34.554792,-112.4688311,123,Prescott,AZ,86301,Medical Marijuana Dispensary
+861,Jamestown Center -Yuma,32.6702714,-114.5600247,4340,Yuma,AZ,85365,Medical Marijuana Dispensary
+862,Green Farmacy,34.132854,-109.282059,334,Springerville,AZ,85938,Medical Marijuana Dispensary
+863,CG Corrigan - Gulton,35.153413,-106.59908,6614,Albuquerque,NM,87109,Medical Marijuana Dispensary
+864,Ultra Health - Santa Fe,35.6597519,-105.9688632,1907,Santa Fe,NM,87505,Medical Marijuana Dispensary
+865,CG Corrigan,35.318815,-106.5318023,30,Placitas,NM,87043,Medical Marijuana Dispensary
+866,Southwest Organic Producers,35.1306266,-106.606207,3504,Albuquerque,NM,87107,Medical Marijuana Dispensary
+867,Urban Wellness,35.1151572,-106.5859467,2910,Albuquerque,NM,87110,Medical Marijuana Dispensary
+868,Ultra Health - Hobbs,32.73909,-103.128047,3211,Hobbs,NM,88240,Medical Marijuana Dispensary
+869,Ultra Health - Albuquerque - Nob Hill Birdland,35.0806072,-106.6088823,3213,Albuquerque,NM,87106,Medical Marijuana Dispensary
+870,Ultra Health Albuquerque - N.E.,35.1095542,-106.5618238,7401,Albuquerque,NM,87110,Medical Marijuana Dispensary
+871,Ultra Health - Bernalillo,35.3177791,-106.5530256,255,Bernalillo,NM,87004,Medical Marijuana Dispensary
+872,Ultra Health Westside,35.1451053,-106.6943238,5115,Albuquerque,NM,87120,Medical Marijuana Dispensary
+873,Pecos Valley Pharmaceuticals,33.4232818,-104.5267921,313,Roswell,NM,88201,Medical Marijuana Dispensary
+874,Minerva Canna Group,35.1638136,-106.6366408,7107,Los Ranchos de Albuquerque,NM,87107,Medical Marijuana Dispensary
+875,Medzen Services Inc,35.2126774,-106.6986004,10660,Albuquerque,NM,87114,Medical Marijuana Dispensary
+876,Sacred Garden,35.6709836,-105.9506719,1300,Santa Fe,NM,87505,Medical Marijuana Dispensary
+877,Minerva Canna Group,34.8093642,-106.7386424,336,Los Lunas,NM,87031,Medical Marijuana Dispensary
+878,Phoenix Botanical,40.0958172,-88.2447336,1704,Champaign,IL,61820,Medical Marijuana Dispensary
+879,PDI Medical,42.1807266,-87.934154,1623,Buffalo Grove,IL,60089,Medical Marijuana Dispensary
+880,Natures Treatment of Illinois,41.4427236,-90.5418434,973,Milan,IL,61264,Medical Marijuana Dispensary
+881,Midway Dispensary,41.79759,-87.7520399,5648,Chicago,IL,60638,Medical Marijuana Dispensary
+882,The Clinic Effingham,39.142172,-88.5542727,1011,Effingham,IL,62401,Medical Marijuana Dispensary
+883,Natures Care,42.099436,-88.0247043,975,Rolling Meadows,IL,60008,Medical Marijuana Dispensary
+884,New Age Care,42.087682,-87.8936185,2015,Mount Prospect,IL,60056,Medical Marijuana Dispensary
+885,FloraMedex,41.9270628,-87.8257643,7955,Elmwood Park,IL,60707,Medical Marijuana Dispensary
+886,Mapleglen Care Center,42.2244134,-89.0235481,4777,Rockford,IL,61109,Medical Marijuana Dispensary
+887,Trinity Compassionate Care Centers,40.726133,-89.6137126,3125,Peoria,IL,61604,Medical Marijuana Dispensary
+888,PharmaCannis - North Aurora,41.8000356,-88.3244543,161,North Aurora,IL,60542,Medical Marijuana Dispensary
+889,3C Compassionate Care Center - Joliet,41.4911361,-88.1724364,1627,Joliet,IL,60431,Medical Marijuana Dispensary
+890,Thrive - Harrisburg,37.7491249,-88.5303819,105,Harrisburg,IL,62946,Medical Marijuana Dispensary
+891,Salveo Health & Wellness,40.5977844,-90.0331723,3104,Canton,IL,61520,Medical Marijuana Dispensary
+892,The Clinic Mundelein,42.238042,-87.983884,1325,Mundelein,IL,60060,Medical Marijuana Dispensary
+893,Midwest Compassion Center,41.670632,-88.073479,1335,Romeoville,IL,60446,Medical Marijuana Dispensary
+894,Thrive - Anna,37.465838,-89.2271072,87,Anna,IL,62906,Medical Marijuana Dispensary
+895,HCI Alternatives,38.6791097,-90.0153228,1014,Collinsville,IL,62234,Medical Marijuana Dispensary
+896,"MEDMAR - ROCKFORD, LLC",42.2997306,-88.9790414,2696,Rockford,IL,61107,Medical Marijuana Dispensary
+897,PharmaCannis - Ottawa,41.379595,-88.8352623,4104,Ottawa,IL,61350,Medical Marijuana Dispensary
+898,Harbory Medical Cannabis Dispensary,37.745669,-89.007272,8195,Marion,IL,62959,Medical Marijuana Dispensary
+899,The Green Solutions Illinois - Normal,40.5462919,-88.9944753,501,Normal,IL,61761,Medical Marijuana Dispensary
+900,Healthway Services of West Illinois,41.9181129,-88.2709799,3714,St. Charles,IL,60174,Medical Marijuana Dispensary
+901,NuMed - Urbana,40.115955,-88.206338,105,Urbana,IL,61801,Medical Marijuana Dispensary
+902,3C Compassionate Care Center - Naperville,41.7737989,-88.191063,1700,Naperville,IL,60540,Medical Marijuana Dispensary
+903,The Green Solution Illinois - Sauget,38.5639349,-90.1334735,2021,Sauget,IL,62206,Medical Marijuana Dispensary
+904,Windy City Cannabis - Justice,41.7390832,-87.8187942,8340,Justice,IL,60458,Medical Marijuana Dispensary
+905,Dispensary 33 - Chicago,41.9726869,-87.6677014,5001,Chicago,IL,60640,Medical Marijuana Dispensary
+906,Mindful Medical Marijuana Dispensary,41.918636,-88.024454,1433,Addison,IL,60101,Medical Marijuana Dispensary
+907,Windy City Cannabis - Posen,41.6255991,-87.6831816,2535,Posen,IL,60469,Medical Marijuana Dispensary
+908,PharmaCannis - Evanston,42.0501825,-87.6848914,1804,Evanston,IL,60201,Medical Marijuana Dispensary
+909,Columbia Care Dispensary - Illinois,41.9668904,-87.7602534,4758,Chicago,IL,60630,Medical Marijuana Dispensary
+910,Windy City Cannabis - Homewood,41.5717446,-87.6448702,1312,Homewood,IL,60430,Medical Marijuana Dispensary
+911,GreenHouse - Mokena,41.544862,-87.858876,10120,Mokena,IL,60448,Medical Marijuana Dispensary
+912,PharmaCannis - Schaumburg,42.055338,-88.0521105,1135,Schaumburg,IL,60173,Medical Marijuana Dispensary
+913,EarthMed,41.910777,-87.993678,852,Addison,IL,60101,Medical Marijuana Dispensary
+914,eleveleÃ‚Â®,42.1789658,-87.8197624,1460,Highland Park,IL,60035,Medical Marijuana Dispensary
+915,MOCA | Modern Cannabis,41.9246065,-87.6992543,2847,Chicago,IL,60647,Medical Marijuana Dispensary
+916,GreenHouse - Deerfield,42.1507411,-87.848203,151,Deerfield,IL,60015,Medical Marijuana Dispensary
+917,HCI Alternatives,39.8002442,-89.6467724,628,Springfield,IL,62701,Medical Marijuana Dispensary
+918,Windy City Cannabis - Worth,41.6833754,-87.7968297,11425,Worth,IL,60482,Medical Marijuana Dispensary
+919,Seven Point (Open Now),41.8889223,-87.8041517,1132,Oak Park,IL,60301,Medical Marijuana Dispensary
+920,Herbal Remedies,39.9345009,-91.3444852,4440,Quincy,IL,62305,Medical Marijuana Dispensary
+921,The Dispensary Fulton (Now Open),41.8622587,-90.1458837,1817,Fulton,IL,61252,Medical Marijuana Dispensary
+922,TriComb Therapies - Victorville,,,0,Victorville,,,Medical Marijuana Delivery
+923,The Stash Spot - Barstow,34.8848929,-117.0127309,975,Barstow,CA,92311,Medical Marijuana Delivery
+924,NWA - NATURAL WELLNESS ASSOCIATION,,,0,Westminster,,,Medical Marijuana Delivery
+925,Safe Access - Modesto,,,0,Modesto,,,Medical Marijuana Delivery
+926,Alternative Green Solutions,,,0,Fresno,,,Medical Marijuana Delivery
+927,The Stash Spot,,,0,Apple Valley,,,Medical Marijuana Delivery
+928,Anon Delivery - Antelope Valley,,,0,Antelope Valley,,,Medical Marijuana Delivery
+929,TriComb Therapies - Redlands,,,0,Redlands,,,Medical Marijuana Delivery
+930,Green Bean Pharm,,,0,Visalia,,,Medical Marijuana Delivery
+931,"Safe Access - Tracy, Manteca",,,0,Tracy,,,Medical Marijuana Delivery
+932,Best Choice Deliveries - Azusa/Covina,,,0,Azusa,,,Medical Marijuana Delivery
+933,HERBOLUTION ORGANICS,,,0,Moreno Valley,,,Medical Marijuana Delivery
+934,Mojave Medical Cultivators Club,,,0,$130 TOP SHELF 1/2 OZ!!!,,,Medical Marijuana Delivery
+935,Buddies Med Express,,,0,La Puente,,,Medical Marijuana Delivery
+936,Quality Medical Collective,,,0,Chino,,,Medical Marijuana Delivery
+937,East Bay Caregivers,,,0,Oakley,,,Medical Marijuana Delivery
+938,BudEx Delivery,34.0333443,-118.0370113,0,Avocado Heights,CA,90601,Medical Marijuana Delivery
+939,CALI CARE,,,0,Santa Clarita,,,Medical Marijuana Delivery
+940,Fly Delivery,,,0,Los Angeles,,,Medical Marijuana Delivery
+941,"Alpha Medic, Inc. - Ocean Beach",,,0,San Diego,,,Medical Marijuana Delivery
+942,The Nug Company,,,0,Monterey,,,Medical Marijuana Delivery
+943,CSA Cali Safe Access - Palm Desert,,,0,Palm Desert,,,Medical Marijuana Delivery
+944,Fly Delivery,,,0,Hollywood,,,Medical Marijuana Delivery
+945,"Safe Access - Tracy, Manteca",,,0,Manteca,,,Medical Marijuana Delivery
+946,Califlower Collective - Burbank,,,0,Burbank,,,Medical Marijuana Delivery
+947,BudEx Delivery - Ontario / Montclair,,,0,Ontario,,,Medical Marijuana Delivery
+948,GoldStar Delivery,,,0,Rancho Cucamonga,,,Medical Marijuana Delivery
+949,Evergreen Compassionate Care (ECC),,,0,Goleta,,,Medical Marijuana Delivery
+950,True Meds Delivery Incorporated,,,0,Mission Valley,,,Medical Marijuana Delivery
+951,APC,,,0,Placentia,,,Medical Marijuana Delivery
+952,Fly Delivery,,,0,Glendale,,,Medical Marijuana Delivery
+953,Sticky Icky Delivery,,,0,Los Angeles,,,Medical Marijuana Delivery
+954,"Alpha Medic, Inc - Lemon Grove / Spring Valley",,,0,San Diego,,,Medical Marijuana Delivery
+955,Bennys Farm - West Hollywood,,,0,West Hollywood,,,Medical Marijuana Delivery
+956,Ez Meds **Open Late**,,,0,SAN FERNANDO VALLEY,,,Medical Marijuana Delivery
+957,Emerald Phog Pacifica,,,0,Pacifica,,,Medical Marijuana Delivery
+958,"TLC Delivery, Inc - Lake Arrowhead",,,0,Lake Arrowhead,,,Medical Marijuana Delivery
+959,Private Label Organics,,,0,Laguna Niguel,,,Medical Marijuana Delivery
+960,"Green Lantern Express, Inc.",,,0,El Centro,,,Medical Marijuana Delivery
+961,SGV MED EXPRESS,,,0,Anywhere in SGV,,,Medical Marijuana Delivery
+962,"Alpha Medic, Inc. - Pacific Beach",,,0,San Diego,,,Medical Marijuana Delivery
+963,Westside Organic Delivery - Santa Monica,,,0,Santa Monica,,,Medical Marijuana Delivery
+964,Herban Voyage (101 Wellness Delivery - Santa Rosa),,,0,Sonoma County,,,Medical Marijuana Delivery
+965,A + ORGANICS - Vallejo,,,0,VALLEJO,,,Medical Marijuana Delivery
+966,"Alpha Medic, Inc. - San Bernardino",,,0,Highland,,,Medical Marijuana Delivery
+967,Californias Kindest,,,0,San Diego,,,Medical Marijuana Delivery
+968,OCPC,,,0,Santa Ana,,,Medical Marijuana Delivery
+969,Goddess Delivers,,,0,Santa Barbara,,,Medical Marijuana Delivery
+970,Lakeside Remedy,,,0,Oakland,,,Medical Marijuana Delivery
+971,Rite Greens Delivery - Garden Grove,,,0,Garden Grove,,,Medical Marijuana Delivery
+972,Quality Green,,,0,Pasadena,,,Medical Marijuana Delivery
+973,House of Kush,,,0,North Hollywood,,,Medical Marijuana Delivery
+974,Buddiez - Vista,,,0,"Vista, Oceanside, Carlsbad",,,Medical Marijuana Delivery
+975,KUSHMAN 420 TOP SHELF,,,0,Hesperia,,,Medical Marijuana Delivery
+976,Free Wax - Stockton,,,0,Stockton,,,Medical Marijuana Delivery
+977,DAM Delivery,,,0,Palm Springs,,,Medical Marijuana Delivery
+978,Goddess Delivers,,,0,Fresno,,,Medical Marijuana Delivery
+979,24/7 Top Shelf Deliveries,,,0,Los Angeles,,,Medical Marijuana Delivery
+980,Peoples Collective,,,0,Wilmington,,,Medical Marijuana Delivery
+981,Jah Healing Caregivers 2,,,0,Fallbrook,,,Medical Marijuana Delivery
+982,RG Long Beach Delivery,,,0,Long Beach,,,Medical Marijuana Delivery
+983,KUSHAGRAM,,,0,Huntington Beach,,,Medical Marijuana Delivery
+984,Goddess Delivers,,,0,Ventura,,,Medical Marijuana Delivery
+985,Humble Sweets,,,0,Bakersfield,,,Medical Marijuana Delivery
+986,MAGIC BUDZ CAREGIVERS ** OPEN LATE **,,,0,Sylmar,,,Medical Marijuana Delivery
+987,Genetic Meds Rx,,,0,Lassen county,,,Medical Marijuana Delivery
+988,The Mint Leaf,,,0,San Clemente,,,Medical Marijuana Delivery
+989,Delta Delivery,,,0,San Rafael,,,Medical Marijuana Delivery
+990,530GreenTrees Delivery - Chico,,,0,Chico,,,Medical Marijuana Delivery
+991,Rite Greens Delivery - Irvine,,,0,Irvine,,,Medical Marijuana Delivery
+992,Holistic Approach Wellness - Beaumont,,,0,Beaumont,,,Medical Marijuana Delivery
+993,Ethnobotanica/Potdeli.org - Monterey County,,,0,Salinas,,,Medical Marijuana Delivery
+994,Bennys Farm - West LA,,,0,Los Angeles,,,Medical Marijuana Delivery
+995,Pavo Pacific Collective- Paso Robles,,,0,Paso Robles,,,Medical Marijuana Delivery
+996,Premium Meds - Rio Vista,,,0,Rio Vista,,,Medical Marijuana Delivery
+997,"Better Daze Express, Inc",,,0,ALL of North County,,,Medical Marijuana Delivery
+998,OCPC,,,0,Costa Mesa,,,Medical Marijuana Delivery
+999,Organic OC Lake Forest,,,0,Lake Forest,,,Medical Marijuana Delivery
+1000,True Meds Delivery Incorporated,,,0,North Park,,,Medical Marijuana Delivery
+1001,Gitmos,,,0,Auburn,,,Medical Marijuana Delivery
+1002,Citadel Alternative Care - Elk Grove,,,0,Elk Grove,,,Medical Marijuana Delivery
+1003,Nug Runner,,,0,Los Alamitos,,,Medical Marijuana Delivery
+1004,Bayshore Medical - San Mateo,37.5621941,-122.3158292,915,San Mateo,CA,94402,Medical Marijuana Delivery
+1005,Top Flower,,,0,Murrieta,,,Medical Marijuana Delivery
+1006,GHC,,,0,Davis,,,Medical Marijuana Delivery
+1007,ExclusiveServices,,,0,Simi Valley,,,Medical Marijuana Delivery
+1008,Organix Delivery - Tustin,,,0,Tustin,,,Medical Marijuana Delivery
+1009,420 Express,,,0,Redding,,,Medical Marijuana Delivery
+1010,Left Coast Collective - Gaslamp / Hillcrest,,,0,San Diego,,,Medical Marijuana Delivery
+1011,PHP Wellness Delivery,,,0,Orangevale,,,Medical Marijuana Delivery
+1012,Pure Green Delivery,,,0,Manhattan Beach,,,Medical Marijuana Delivery
+1013,The Honor Roll Collective,,,0,West Covina,,,Medical Marijuana Delivery
+1014,A Cut Above Deliveries,37.8988292,-122.0835572,2920,Walnut Creek,CA,94597,Medical Marijuana Delivery
+1015,"Better Daze Express, Inc",,,0,All of North County,,,Medical Marijuana Delivery
+1016,Organix Delivery - Anaheim,,,0,Anaheim,,,Medical Marijuana Delivery
+1017,Le Shoppe,,,0,Sunnyvale,,,Medical Marijuana Delivery
+1018,WEEDRIVE,,,0,Del Mar,,,Medical Marijuana Delivery
+1019,Citadel Alternative Care - Hayward,,,0,Hayward,,,Medical Marijuana Delivery
+1020,Alpha Medic Inc. - Jurupa Valley,,,0,Mira Loma,,,Medical Marijuana Delivery
+1021,FAST n FRIENDLY (OPEN LATE!),,,0,San Pedro,,,Medical Marijuana Delivery
+1022,4 Twenty,,,0,Rialto,,,Medical Marijuana Delivery
+1023,Sweet Dreams inc,,,0,Fairfield,,,Medical Marijuana Delivery
+1024,Holistic Approach Wellness - Yucaipa,,,0,Yucaipa,,,Medical Marijuana Delivery
+1025,Buds Direct - Temecula,,,0,Temecula,,,Medical Marijuana Delivery
+1026,HOLLISTER - COMPASSIONATE BAY DELIVERY,,,0,Hollister,,,Medical Marijuana Delivery
+1027,831 Organiks - Santa Cruz,,,0,Santa Cruz,,,Medical Marijuana Delivery
+1028,Luckys Health Group Delivery,,,0,Chula Vista,,,Medical Marijuana Delivery
+1029,Peoples MC,,,0,Riverside,,,Medical Marijuana Delivery
+1030,Kind Solutions,,,0,Eureka,,,Medical Marijuana Delivery
+1031,Bently Collective,33.7435348,-116.9713024,324,Hemet,CA,92543,Medical Marijuana Delivery
+1032,Holistic Essentials Concord,,,0,Concord,,,Medical Marijuana Delivery
+1033,FAST n FRIENDLY (OPEN LATE!),,,0,Downey,,,Medical Marijuana Delivery
+1034,Pure Green Delivery - Hawthorne,,,0,Hawthorne,,,Medical Marijuana Delivery
+1035,Green Cuisine Delivery - Oxnard,,,0,Oxnard,,,Medical Marijuana Delivery
+1036,LuvBrite Delivery - Venice,,,0,Venice,,,Medical Marijuana Delivery
+1037,CoExist RX,,,0,Lompoc,,,Medical Marijuana Delivery
+1038,Citadel Alternative Care - Newark,,,0,Newark,,,Medical Marijuana Delivery
+1039,Citadel Alternative Care - Roseville,,,0,Roseville,,,Medical Marijuana Delivery
+1040,Natural Green Solutions Inc - Vacaville,,,0,Vacaville,,,Medical Marijuana Delivery
+1041,Keep It Green Collective - Sacramento,,,0,Carmichael,,,Medical Marijuana Delivery
+1042,FAST n FRIENDLY (OPEN LATE!) - Downtown Long Beach,,,0,Long Beach,,,Medical Marijuana Delivery
+1043,Peoples MC,,,0,Corona,,,Medical Marijuana Delivery
+1044,Pavo Pacific Collective- San Luis Obispo County,,,0,San Luis Obispo,,,Medical Marijuana Delivery
+1045,SkyHighmeds Delivery,,,0,Big Bear City,,,Medical Marijuana Delivery
+1046,Organic OC Dana Point,,,0,Dana Point,,,Medical Marijuana Delivery
+1047,A Cut Above Deliveries,,,0,Dublin,,,Medical Marijuana Delivery
+1048,Pavo Pacific Collective- Santa Maria,,,0,Santa Maria,,,Medical Marijuana Delivery
+1049,Organix Delivery - Newport Beach,,,0,Newport Beach,,,Medical Marijuana Delivery
+1050,Organix Delivery - Mission Viejo,,,0,Mission Viejo,,,Medical Marijuana Delivery
+1051,Organix Delivery - Laguna Beach,,,0,Laguna Beach,,,Medical Marijuana Delivery
+1052,High Five Cannabis,,,0,san diego,,,Medical Marijuana Delivery
+1053,Tahoe Meds,,,0,Truckee,,,Medical Marijuana Delivery
+1054,Left Coast Collective - Clairemont Kearny,,,0,San Diego,,,Medical Marijuana Delivery
+1055,FAST n FRIENDLY (OPEN LATE!),,,0,Montebello,,,Medical Marijuana Delivery
+1056,House of Kush,,,0,Woodland Hills,,,Medical Marijuana Delivery
+1057,Cali Service Center,,,0,Marysville,,,Medical Marijuana Delivery
+1058,Bennys Farm - Culver City,,,0,Culver City,,,Medical Marijuana Delivery
+1059,Bayshore Medical - Palo Alto,,,0,Palo Alto,,,Medical Marijuana Delivery
+1060,Organix Delivery - Orange,,,0,Anaheim Hills,,,Medical Marijuana Delivery
+1061,Premium Meds - Sacramento,,,0,Sacramento,,,Medical Marijuana Delivery
+1062,Central Holistics,,,0,Sacramento,,,Medical Marijuana Delivery
+1063,Left Coast Collective - La Jolla,,,0,La Jolla,,,Medical Marijuana Delivery
+1064,RG Long Beach Delivery,,,0,Long Beach,,,Medical Marijuana Delivery
+1065,Mi-Care Meds - 5 Cities,,,0,Pismo,,,Medical Marijuana Delivery
+1066,REDSTONE SERVICE,,,0,San Ramon,,,Medical Marijuana Delivery
+1067,Green Coach,,,0,Martinez,,,Medical Marijuana Delivery
+1068,"Bennys Farm, Playa Vista - Playa Del Rey",,,0,Playa Del Rey,,,Medical Marijuana Delivery
+1069,APC Delivery,,,0,La Habra,,,Medical Marijuana Delivery
+1070,HWY 1 Organics,,,0,Morro Bay,,,Medical Marijuana Delivery
+1071,Organic Wellness,,,0,Encinitas,,,Medical Marijuana Delivery
+1072,Premium Meds,,,0,San Francisco,,,Medical Marijuana Delivery
+1073,Green Wheels Delivery,,,0,Berkeley,,,Medical Marijuana Delivery
+1074,Natural Green Solutions Inc - Napa,,,0,Napa,,,Medical Marijuana Delivery
+1075,G Mile,,,0,Menifee,,,Medical Marijuana Delivery
+1076,High Desert Healing Delivery ( Parker Green ),,,0,Parker,,,Medical Marijuana Delivery
+1077,Diamond Mountain Farms,,,0,Chester,,,Medical Marijuana Delivery
+1078,Goddess Delivers - San Jose,,,0,San Jose,,,Medical Marijuana Delivery
+1079,Bayshore Medical - Cupertino,,,0,Cupertino,,,Medical Marijuana Delivery
+1080,TFO FTP FREE 8TH DELIVERY - Redondo Beach,,,0,Redondo Beach,,,Medical Marijuana Delivery
+1081,Premium Meds-Folsom,,,0,Folsom,,,Medical Marijuana Delivery
+1082,High Standards,,,0,Rancho Santa Margarita,,,Medical Marijuana Delivery
+1083,Nug Runner - Lakewood,,,0,Lakewood,,,Medical Marijuana Delivery
+1084,Sticky Fingers Inc.,,,0,Pollock Pines,,,Medical Marijuana Delivery
+1085,Loud Pack Delivery - Studio City / Sherman Oaks,,,0,Studio City,,,Medical Marijuana Delivery
+1086,Rite Greens Delivery - Santa Fe Springs,,,0,Whittier,,,Medical Marijuana Delivery
+1087,Supply Co - Turlock,,,0,Turlock,,,Medical Marijuana Delivery
+1088,Green Shack Wellness,,,0,Del Mar,,,Medical Marijuana Delivery
+1089,Rite Greens Delivery - Fullerton,,,0,Fullerton,,,Medical Marijuana Delivery
+1090,ShowGrow Delivery - Ramona,,,0,Ramona,,,Medical Marijuana Delivery
+1091,Diamond Wellness - San Dimas / Laverne,,,0,San Dimas,,,Medical Marijuana Delivery
+1092,Todays Meds,,,0,Lake Elsinore,,,Medical Marijuana Delivery
+1093,Todays Meds- Perris,,,0,Perris,,,Medical Marijuana Delivery
+1094,Supply Co - Riverbank,,,0,Riverbank,,,Medical Marijuana Delivery
+1095,Group Health Clinic Coop,,,0,Summerland,,,Medical Marijuana Delivery
+1096,Planet of the Eighths,,,0,Fallbrook,,,Medical Marijuana Delivery
+1097,Buddies Med Express,,,0,Covina,,,Medical Marijuana Delivery
+1098,Tops Cannabis - Chino,,,0,Chino,,,Medical Marijuana Delivery
+1099,Safe Access - Modesto,,,0,Modesto,,,Medical Marijuana Delivery
+1100,HERB,,,0,Los Angeles,,,Medical Marijuana Delivery
+1101,Organic Medicine Delivery - Visalia,,,0,Visalia,,,Medical Marijuana Delivery
+1102,Buddies Med Express,34.0333443,-118.0370113,0,Avocado Heights,CA,90601,Medical Marijuana Delivery
+1103,OCPC,,,0,Mission Viejo,,,Medical Marijuana Delivery
+1104,Supply Co. - Stockton,,,0,Stockton,,,Medical Marijuana Delivery
+1105,Exclusive 35 CAP,,,0,Highland Park,,,Medical Marijuana Delivery
+1106,Tops Cannabis - Rialto,,,0,Rialto,,,Medical Marijuana Delivery
+1107,Healthy Greens - Danville,,,0,San Ramon,,,Medical Marijuana Delivery
+1108,THE GREEN MEDICS,34.6873843,-118.1487617,1008,Lancaster,CA,93534,Medical Marijuana Delivery
+1109,CLEAN GREEN Patient Services,,,0,North Coast,,,Medical Marijuana Delivery
+1110,Best Remedy,,,0,La verne / San Dimas,,,Medical Marijuana Delivery
+1111,Tops Cannabis - Pasadena,,,0,Pasadena,,,Medical Marijuana Delivery
+1112,The Honor Roll Collective,34.0333443,-118.0370113,0,Avocado Heights,CA,90601,Medical Marijuana Delivery
+1113,HERB,,,0,Los Angeles,,,Medical Marijuana Delivery
+1114,Connoisseur Direct,,,0,Banning,,,Medical Marijuana Delivery
+1115,Green Trees Wellness,,,0,Truckee,,,Medical Marijuana Delivery
+1116,CEAS,,,0,Santa Cruz,,,Medical Marijuana Delivery
+1117,DESERT DREAMS,,,0,Temecula,,,Medical Marijuana Delivery
+1118,The Stash Spot,,,0,Victorville,,,Medical Marijuana Delivery
+1119,LiveMeds - Indio,,,0,Indio,,,Medical Marijuana Delivery
+1120,"Alpha Medic, Inc - Redlands / Mentone",,,0,Redlands,,,Medical Marijuana Delivery
+1121,420 King Delivery,,,0,Los Angeles,,,Medical Marijuana Delivery
+1122,"Alpha Medic, Inc. - Carlsbad",,,0,Carlsbad,,,Medical Marijuana Delivery
+1123,Marin Gardens,,,0,San Rafael,,,Medical Marijuana Delivery
+1124,The Finer Things Collective,,,0,El Centro,,,Medical Marijuana Delivery
+1125,Tops Cannabis - Whittier,,,0,Whittier,,,Medical Marijuana Delivery
+1126,Supply Co,,,0,Manteca,,,Medical Marijuana Delivery
+1127,Med City Delivery - Hollywood,,,0,Hollywood,,,Medical Marijuana Delivery
+1128,Safe Access - Turlock,,,0,Turlock,,,Medical Marijuana Delivery
+1129,Bennys Farm - Santa Monica,,,0,Santa Monica,,,Medical Marijuana Delivery
+1130,One Love One Life,,,0,Rancho Santa Margarita,,,Medical Marijuana Delivery
+1131,KUSHAGRAM,,,0,Anaheim,,,Medical Marijuana Delivery
+1132,100% Delivery,,,0,Hesperia,,,Medical Marijuana Delivery
+1133,OneStopOC,,,0,Santa Ana,,,Medical Marijuana Delivery
+1134,Herbalistic Care HHC - Menifee,,,0,Menifee Area,,,Medical Marijuana Delivery
+1135,Cloud Nine Collective,,,0,Livermore,,,Medical Marijuana Delivery
+1136,Temescal Valley Holistic Care - Lake Elsinore,,,0,Lake Elsinore,,,Medical Marijuana Delivery
+1137,Central Valley Holistics - Fresno,,,0,Fresno,,,Medical Marijuana Delivery
+1138,Amsterdams Garden,,,0,San Jose,,,Medical Marijuana Delivery
+1139,Connoisseurs Choice,,,0,Van Nuys,,,Medical Marijuana Delivery
+1140,GC Petals,,,0,San Diego,,,Medical Marijuana Delivery
+1141,FAST AND FRIENDLY (OPEN LATE!),,,0,Cerritos,,,Medical Marijuana Delivery
+1142,"Safe Access - Oakdale, Riverbank",,,0,Oakdale,,,Medical Marijuana Delivery
+1143,Pure Green Delivery - Long Beach,,,0,Long Beach,,,Medical Marijuana Delivery
+1144,Central Valley Holistics - Delivery,,,0,Fresno,,,Medical Marijuana Delivery
+1145,"Gold Digger Extracts - Bellflower, Paramount",,,0,Bellflower,,,Medical Marijuana Delivery
+1146,Kind Deliveries,33.5874814,-117.7235006,91,Aliso Viejo,CA,92656,Medical Marijuana Delivery
+1147,The Green Apple,,,0,Hemet/San Jacinto,,,Medical Marijuana Delivery
+1148,San Diego Organics,,,0,San Diego,,,Medical Marijuana Delivery
+1149,KUSHAGRAM,,,0,Lake Forest,,,Medical Marijuana Delivery
+1150,SYVSA -Santa Ynez Valley Safe Access,,,0,Santa Ynez,,,Medical Marijuana Delivery
+1151,24 HOUR BUDS,,,0,North Hollywood,,,Medical Marijuana Delivery
+1152,WEEDRIVE,,,0,Lemon Grove/Spring Valley,,,Medical Marijuana Delivery
+1153,FAST n FRIENDLY (OPEN LATE!),,,0,Hermosa Beach,,,Medical Marijuana Delivery
+1154,Yerba,,,0,Berkeley,,,Medical Marijuana Delivery
+1155,OC Compassionate Care - Costa Mesa,,,0,Costa Mesa,,,Medical Marijuana Delivery
+1156,Budeze,34.8848929,-117.0127309,975,Barstow,CA,92311,Medical Marijuana Delivery
+1157,Patients First Collective - Tracy,,,0,Tracy,,,Medical Marijuana Delivery
+1158,"Alpha Medic, Inc. - Yucaipa / Beaumont",,,0,Yucaipa,,,Medical Marijuana Delivery
+1159,Norcanna LLC,,,0,Sacramento,,,Medical Marijuana Delivery
+1160,Todays Meds - San Bernardino,,,0,Highland,,,Medical Marijuana Delivery
+1161,Pot On The Spot Delivery,,,0,Burbank,,,Medical Marijuana Delivery
+1162,Captain Kush,,,0,WOODLAND HILLS,,,Medical Marijuana Delivery
+1163,FAST n FRIENDLY (OPEN LATE!),,,0,El Segundo,,,Medical Marijuana Delivery
+1164,High Level Health,,,0,El Cajon,,,Medical Marijuana Delivery
+1165,420 Collective,,,0,Concord & Vicinity,,,Medical Marijuana Delivery
+1166,Luckys Health Group Delivery,,,0,La Mesa,,,Medical Marijuana Delivery
+1167,TFO FTP FREE 8TH DELIVERY - Hawthorne,,,0,Hawthorne,,,Medical Marijuana Delivery
+1168,The Floral Element,,,0,Pleasanton/Dublin,,,Medical Marijuana Delivery
+1169,Releaf Delivery,,,0,La Jolla,,,Medical Marijuana Delivery
+1170,High Desert Green Care - Apple Valley,,,0,Apple Valley,,,Medical Marijuana Delivery
+1171,The Mint Leaf - Dana Point,,,0,Dana Point,,,Medical Marijuana Delivery
+1172,Infinite Kindness - Corona,,,0,Corona,,,Medical Marijuana Delivery
+1173,Pure Green Delivery - Lakewood/Long Beach,,,0,Long Beach,,,Medical Marijuana Delivery
+1174,FAST n FRIENDLY (OPEN LATE!) - Lakewood,,,0,Long Beach,,,Medical Marijuana Delivery
+1175,Sebastopol Compassionate Care - Sonoma County,,,0,Sebastopol,,,Medical Marijuana Delivery
+1176,Top Shelf Ventura,,,0,Ventura,,,Medical Marijuana Delivery
+1177,Safe Access,,,0,Merced,,,Medical Marijuana Delivery
+1178,Planet Hollyweed,,,0,Studio City,,,Medical Marijuana Delivery
+1179,Amsterdams Garden,,,0,San Jose,,,Medical Marijuana Delivery
+1180,OCPC,,,0,Irvine,,,Medical Marijuana Delivery
+1181,Drive420.com,,,0,Thousand Oaks,,,Medical Marijuana Delivery
+1182,Royal Hemp Club - GRAND OPENING!!,,,0,Downey,,,Medical Marijuana Delivery
+1183,Mankind Storefront & Delivery,,,0,San Diego,,,Medical Marijuana Delivery
+1184,Mr. 805 Organics,,,0,Santa Maria,,,Medical Marijuana Delivery
+1185,Goodfella Gardens,,,0,Pomona,,,Medical Marijuana Delivery
+1186,Butterfly Holistic,,,0,Olivehurst,,,Medical Marijuana Delivery
+1187,Citadel Alternative Care - South Sacramento,,,0,Sacramento,,,Medical Marijuana Delivery
+1188,Organix Delivery - Huntington Beach,,,0,Huntington Beach,,,Medical Marijuana Delivery
+1189,Bennys Farm - Venice/Marina Del Rey,,,0,Venice,,,Medical Marijuana Delivery
+1190,Yucca Treehouse,,,0,Yucca Valley,,,Medical Marijuana Delivery
+1191,Buds Direct - Murrieta,,,0,Murrieta,,,Medical Marijuana Delivery
+1192,Luckys Health Group Delivery,,,0,North Park,,,Medical Marijuana Delivery
+1193,CEAS,,,0,Chico,,,Medical Marijuana Delivery
+1194,Goddess Delivers,,,0,San Luis Obispo,,,Medical Marijuana Delivery
+1195,Bento - Sunnyvale / Cupertino,,,0,Sunnyvale,,,Medical Marijuana Delivery
+1196,Organix Delivery - Garden Grove,,,0,Garden Grove,,,Medical Marijuana Delivery
+1197,Green Cuisine Delivery Santa Barbara,,,0,Santa Barbara,,,Medical Marijuana Delivery
+1198,On Deck Cooperative,,,0,Valencia,,,Medical Marijuana Delivery
+1199,Medicine Express - Fairfield,,,0,Fairfield,,,Medical Marijuana Delivery
+1200,King Kush of Los Angeles,,,0,Los Angeles,,,Medical Marijuana Delivery
+1201,Todays Meds- Ontario,,,0,Ontario,,,Medical Marijuana Delivery
+1202,Citadel Alternative Care - Carmichael,,,0,Carmichael,,,Medical Marijuana Delivery
+1203,Sweet Leaf Shoppe - San Pedro,,,0,San Pedro,,,Medical Marijuana Delivery
+1204,Todays Meds- Rancho Cucamonga,,,0,Rancho Cucamonga,,,Medical Marijuana Delivery
+1205,Point Loma Patient Consumer Co-Op - National City,,,0,San Diego,,,Medical Marijuana Delivery
+1206,Serenity Farms Inc. Colfax / Grass Valley / Nevada City,,,0,sacramento,,,Medical Marijuana Delivery
+1207,805 Central Coast Caregivers - Paso Robles / Atascadero,,,0,Paso Robles,,,Medical Marijuana Delivery
+1208,Pineapple Express - Torrance,,,0,Torrance,,,Medical Marijuana Delivery
+1209,Irie Care Collective - Union City,,,0,Hayward,,,Medical Marijuana Delivery
+1210,Point Loma Patient Consumer Co-Op,,,0,Mission Valley,,,Medical Marijuana Delivery
+1211,Gold Coast Meds,,,0,Oxnard,,,Medical Marijuana Delivery
+1212,Todays Meds,,,0,Moreno Valley,,,Medical Marijuana Delivery
+1213,1-866-DELIVERY,,,0,Tustin,,,Medical Marijuana Delivery
+1214,Nevada Medical Marijuana - Henderson,35.9980468,-115.1244041,3195,Henderson,NV,89052,Medical Marijuana Dispensary
+1215,ShowGrow Las Vegas,36.1012117,-115.2969582,4850,Las Vegas,NV,89147,Medical Marijuana Dispensary
+1216,Sahara Wellness - Las Vegas,36.144018,-115.151511,420,Las Vegas,NV,89104,Medical Marijuana Dispensary
+1217,Nevada Medical Marijuana,35.161306,-114.5751434,1975,Laughlin,NV,89029,Medical Marijuana Dispensary
+1218,Silver State Relief,39.5211993,-119.7415769,175,Sparks,NV,89431,Medical Marijuana Dispensary
+1219,Essence Dispensary | Las Vegas Strip,36.1447394,-115.1564921,2307,Las Vegas,NV,89104,Medical Marijuana Dispensary
+1220,Essence Dispensary | West,36.0998995,-115.2200137,5765,Las Vegas,NV,89103,Medical Marijuana Dispensary
+1221,Sierra Wellness - Reno,39.5276259,-119.7915176,1605,Reno,NV,89502,Medical Marijuana Dispensary
+1222,The Apothecary Shoppe - West Las Vegas,36.116026,-115.196742,4240,Las Vegas,NV,89103,Medical Marijuana Dispensary
+1223,Essence Dispensary | Henderson,36.0723887,-115.0800772,4300,Henderson,NV,89014,Medical Marijuana Dispensary
+1224,Inyo Fine Cannabis Dispensary - Las Vegas,36.143901,-115.135662,2520,Las Vegas,NV,89109,Medical Marijuana Dispensary
+1225,Reef Dispensaries - Sparks,39.527393,-119.74024,195,Sparks,NV,89431,Medical Marijuana Dispensary
+1226,Mohave Green,34.957228,-114.596683,6870,Mohave Valley,AZ,86440,Medical Marijuana Dispensary
+1227,Nevada Wellness Center | Las Vegas,36.1318486,-115.189578,3200,Las Vegas,NV,89102,Medical Marijuana Dispensary
+1228,Las Vegas ReLeaf,36.1441583,-115.1554437,2244,Las Vegas,NV,89104,Medical Marijuana Dispensary
+1229,Sierra Wellness - Carson City,39.1751072,-119.73689,2765,Carson City,NV,89701,Medical Marijuana Dispensary
+1230,TheDispensaryNV - Reno,39.5053889,-119.8052391,100,Reno,NV,89509,Medical Marijuana Dispensary
+1231,Valley Healing Group,35.0823615,-114.5952191,2840,Bullhead City,AZ,86442,Medical Marijuana Dispensary
+1232,Oasis Medical Cannabis - Las Vegas,36.1505377,-115.1611302,1800,Las Vegas,NV,89102,Medical Marijuana Dispensary
+1233,Euphoria Wellness,36.0479735,-115.224447,7780,Las Vegas,NV,89139,Medical Marijuana Dispensary
+1234,The Grove,36.10544,-115.150032,4647,Las Vegas,NV,89119,Medical Marijuana Dispensary
+1235,Silver Sage Wellness,36.159405,-115.203849,4626,Las Vegas,NV,89102,Medical Marijuana Dispensary
+1236,BLUM Las Vegas - Western,36.1488809,-115.1639148,1921,Las Vegas,NV,89102,Medical Marijuana Dispensary
+1237,Blackjack Collective,36.1497805,-115.1642491,1860,Las Vegas,NV,89102,Medical Marijuana Dispensary
+1238,CannaCopia Las Vegas Medical Marijuana Center,36.073716,-115.2420944,6332,Las Vegas,NV,89118,Medical Marijuana Dispensary
+1239,THRIVE Cannabis Marketplace Downtown,36.1581221,-115.1564066,1112,Las Vegas,NV,89102,Medical Marijuana Dispensary
+1240,The Apothecarium,36.1426743,-115.2626187,7885,Las Vegas,NV,89117,Medical Marijuana Dispensary
+1241,Medizin,36.0725409,-115.2070454,4850,Las Vegas,NV,89118,Medical Marijuana Dispensary
+1242,New Amsterdam Naturals Las Vegas,36.1610772,-115.1485915,823,Las Vegas,NV,89101,Medical Marijuana Dispensary
+1243,Reef Dispensaries - Las Vegas Strip,36.1282843,-115.1769104,3400,Las Vegas,NV,89109,Medical Marijuana Dispensary
+1244,Reef Dispensaries - Las Vegas North,36.2187991,-115.1594598,1366,North Las Vegas,NV,89030,Medical Marijuana Dispensary
+1245,THRIVE Cannabis Marketplace,36.216995,-115.177932,2755,North Las Vegas,NV,89032,Medical Marijuana Dispensary
+1246,TheDispensaryNV - West Las Vegas,36.0925336,-115.2084932,5347,Las Vegas,NV,89118,Medical Marijuana Dispensary
+1247,TheDispensaryNV - Henderson,36.0347315,-115.028899,50,Henderson,NV,89014,Medical Marijuana Dispensary
+1248,The Clinic,36.1158984,-115.1981179,4310,Las Vegas,NV,89103,Medical Marijuana Dispensary
+1249,Pisos - The Strip,36.1139123,-115.1369385,4110,Las Vegas,NV,89119,Medical Marijuana Dispensary
+1250,BLUM Las Vegas - Decatur,36.1235575,-115.2075378,3650,Las Vegas,NV,89103,Medical Marijuana Dispensary
+1251,Kanna Reno,39.5889188,-119.780164,5398,Sun Valley,NV,89433,Medical Marijuana Dispensary
+1252,RISE Carson City,39.1278207,-119.769227,135,Carson City,NV,89701,Medical Marijuana Dispensary
+1253,JardÃƒÂ­n Premium Cannabis Dispensary,36.1304095,-115.1108941,2900,Las Vegas,NV,89121,Medical Marijuana Dispensary
+1254,Top Notch THC,36.0872634,-115.0454944,5630,Las Vegas,NV,89122,Medical Marijuana Dispensary
+1255,Shango Las Vegas,36.1247044,-115.0791478,4380,Las Vegas,NV,89121,Medical Marijuana Dispensary
+1256,The Source,36.1431923,-115.242116,2550,Las Vegas,NV,89146,Medical Marijuana Dispensary
+1257,The Source - Henderson,,,0,Henderson,,,Medical Marijuana Dispensary
+1258,Blum Las Vegas - Desert Inn,36.1303587,-115.1395108,1130,Las Vegas,NV,89109,Medical Marijuana Dispensary
+1259,Reef Dispensaries - Sun Valley,39.5788063,-119.7808084,5105,Sun Valley,NV,89433,Medical Marijuana Dispensary
+1260,NuLeaf NV,39.2494874,-119.9550365,877,Incline Village,NV,89451,Medical Marijuana Dispensary
+1261,Jennys Dispensary - North Las Vegas,36.2609191,-115.2071547,5530,North Las Vegas,NV,89031,Medical Marijuana Dispensary
+1262,Jennys Dispensary - Henderson,36.0020509,-115.1064614,10420,Henderson,NV,89052,Medical Marijuana Dispensary

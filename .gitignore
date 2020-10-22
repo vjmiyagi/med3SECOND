@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.vscode
+med.ipynb 
+rec.py
 
 # C extensions
 *.so

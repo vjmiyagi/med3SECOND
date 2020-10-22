@@ -1,0 +1,22 @@
+﻿disease_id,disease,species_id
+1,ADHD,1
+2,HIV/AIDS,1
+3,Glaucoma,1
+4,Alzheimer'sDisease,1
+5,Depression,1
+6,Bipolar Disorder,1
+7,Arthritis,2
+8,Cancer,2
+9,Crohn’s Disease,2
+10,Epilepsy,2
+11,Fibromyalgia,2
+12,Generalized Anxiety Disorder,2
+13,Inflammation,2
+14,Lupus,2
+15,Multiple Sclerosis,2
+16,Obsessive Compulsive Disorder,2
+17,Panic Attacks,2
+18,Parkinsons Disease,2
+19,PMS,2
+20,Post Traumatic Stress Disorder,2
+21,Sleep Apnea,2
