@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 .vscode
 med.ipynb 
-rec.py
+
 
 # C extensions
 *.so
